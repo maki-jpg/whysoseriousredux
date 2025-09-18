@@ -1,0 +1,61 @@
+/* General settings*/
+#shortcut {
+	display:block;
+	background:#fffff8;
+	padding:0.5em;
+	font-size: 0.7em;
+	width:47%;
+	margin:2em 0 1em 0;
+	line-height:2em;
+	border:1px solid #D2D2D2;
+	}
+	
+#shortcut ul {
+	list-style:none;
+	margin-bottom:0.1em;
+	}
+	
+.scroll li {
+	background:transparent url(../images_pres/shortcut.gif) no-repeat center left;
+	padding-left:1.5em;
+	}
+	
+#shorttitle {
+	font-weight:bold;
+	font-size:1.1em;
+	text-indent:1em;
+	margin:0.5em 0 -0.5em 0;
+	}
+	
+/* Floated columns */	
+#shortcutl {
+	display:block;
+	float:left;
+	background:#fffff8;
+	padding:0.5em;
+	font-size: 0.7em;
+	width:47%;
+	margin:1em 0 1em 0;
+	line-height:2em;
+	border:1px solid #D2D2D2;
+	}
+	
+#shortcutl ul {
+	list-style:none;
+	}
+
+#shortcutr {
+	display:block;
+	background:#fffff8;
+	padding:0.5em;
+	font-size: 0.7em;
+	width:47%;
+	float:right;
+	margin:1em 0 2em 0;
+	line-height:2em;
+	border:1px solid #D2D2D2;
+	}
+	
+#shortcutr ul {
+	list-style:none;
+	}

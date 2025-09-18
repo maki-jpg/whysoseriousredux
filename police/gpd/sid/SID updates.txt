@@ -1,0 +1,160 @@
+GPD's SID is a database of various secure documents. Presumably the most valuable ones are those that record the police dept's thoughts of dealing with Gotham's gang activity.
+
+==November 30, 2007==
+An update was added to the [[GVAFoundation.org]] home page:
+{| class="quote"
+|
+Protecting Victims
+
+The Law requires that victims of crime be protected, but we've had five people call us in the last four weeks complaining that they have been approached by predatory security firms and lenders who clearly knew that their homes had been vandalized during the Fear Toxin riots in The Narrows. One of our clients contracted with the security system that approached her, which promised to provide her with 24 hour security for $12.99, and to install the system for free. It was the classic bait and switch. We reviewed the contract and found that after three months at the monthly security rate would go to more than fifty percent higher than the average security system charges in the city, and that added to that monthly charge would be a $15.99 a month fee to cover the installation costs of her system. The contract is for three years and there is no release clause.
+
+It's apparent that these companies are getting the victim's information. One of our volunteers pretended to interview for a job with one of these companies. She reported that there were Gotham Police documents on the desk of the man who interviewed her. When she asked if the company was working with the police, the man interviewing her winked and said no, but that the Gotham Police's secure internal documents server was an open book. He said the GPD's document security was a joke.
+
+GVAF has scheduled an appointment with Police Commissioner Loeb to discuss the issue of identity security for victims. We have also filed a lawsuit for the GVAF client with the security company.
+|}
+
+This led participants to look up the site '''http://www.gothampolice.com/secureinternaldocuments/ ''' 
+
+===Chechens (LC6551)===
+
+By logging in as Karl Breitup and using his anniversary (21485) as the password, participants are able to search for document number LC6551, mentioned in the [[Wearetheanswer.org]] threatening phone message: 
+
+{| class="quote"
+|
+Gotham Police Department
+
+To: All Section Officers
+From: Larry Coniglia
+
+Re: Upswing in Extortion/Chechen Gang activity
+
+In the wake of the Falcone family collapse, members of organized crime associated with Chechen immigrants (from the 'Little Groznyy' area in Haysville) have attempted to step into the power vacuum.
+
+Although reports of extortion have dropped to near zero, beat officers are reporting that business owners are apparently being shaken down but are too frightened to talk about it. Karl Breitup and Jason McCree have been working on a rash of arson cases in District 5 that appear to be part of this upsurgence. They report:
+
+* Seventeen site fires have destroyed an estimated $240,000 in equipment and materials in the last four weeks alone. It assumed that these fires are set on the construction sites of contractors who refuse to pay protection fees.
+
+* At least one homicide, the unsolved murder of Jimmy Cocuza, has been circumstantially related to Chechen activity. Coeuza, low level member of the Falcone family ran a construction company allegedly operating as a front for money laundering. Although the M.O., a mob style 'hit' with a .22, seems consistent with organized crime, evidence at the scene - the victime had been bound with electrical tape and tortured, an empty vodka bottle left on the desk - were consistent with other Chechen activity and clearly meant to 'send a message.'
+
+Similar activity has occurred in other spheres of business long associated with the Falcone family, including dry cleaners and waste disposal. It is politically incorrect to 'long for the good old days' but the crime families knew their place, if you know what I mean. There's always going to be crime. The Moroni/Falcone families knew it was in their best interest to keep some peace. They 'kept a lid on it.' These guys are brutal, and more than willing to open fire on officers.For the near future, everyone wear your vest. If you think there's trouble, call for back-up.
+
+Respectfully, 
+
+Larry Coniglia
+|
+[[Image:Chechens.jpg|400px]]
+|}
+{| class="quote"
+|
+'''Note:''' all typos were included
+|}
+
+
+===Clearance Request (IA8214299)===
+
+Participants have also reported sending emails to '''glenn.barhyte@gpdiad.com''' from the [[Gpdiad.com]] website and receiving personalized responses back. He is adamant about not being able to talk about the mob's connection to any police officers, but he mentioned a new document: '''IA8214299.''' Entering that document number into the SID logged in as Karl Breitup shows that Breitup (who is a lieutenant) does not have clearance to view that document. 
+
+The efforts to crack Glenn Barhyte's password have proved fruitful. His favorite song is The Rolling Stone's "Satisfaction" and he lived in Utrecht (in the Netherlands) for 9 years. 
+His password is "tevredenheid," which is Dutch for "Satisfaction." With this new login, document '''IA8214299''' was revealed, detailing the [[Wearetheanswer.org|investigation into corruption accusations levied against Jason McCree and Karl Breitup]]:
+
+{| class="quote"
+|
+Gotham Police Department
+
+'''Doc: '''IA8214299
+'''Form IA4912 '''Special Operations Clearance Request
+
+'''Requesting Officer: '''Barhyte, Glenn
+
+'''Court Order: '''Yes
+
+'''Nature of Operation:''' Surveillance of Business
+
+'''Time:''' 15:00 Date 12/01
+
+'''Approvals:
+Describe Operation, include resources and personnel required:'''
+
+Surveillance of Betty's House of Pies 1445 Maloney Street
+
+Gotham City (see IA6142137)
+
+six officers (no uniforms)
+
+listening van
+
+equipment for wiring an area for recording
+
+'''Internal Affairs, not for distribution through police channels'''
+
+'''Personnel Clear for Overtime?''' Yes
+
+'''Reviewed by Legal Counsel: '''Rachel Dawes (signed)
+|
+[[Image:IA8214299.jpg|400px]]
+|}
+
+
+
+----
+
+Using Glenn Barhyte's login information on the [[Gpdiad.com]] site also allows the participant to listen in on the live feed from the surveillance operation mentioned above. [http://www.gpdiad.com/feeds/as12061500/default.aspx] The stream went active on Dec 1, at 3PM EST.
+
+===Memo (IA6142137)===
+
+From information in Barhyte's clearance request, another document was found:
+
+{| class="quote"
+|
+From:Glenn Barhyte
+
+Re: Breitup, McCree/Last recap before Saturday
+
+As discussed, we will be in place at Betty's House of Pies although we will not start the live audio feed until Breitup and McCree are in place. Breitup and McCree are not expected until 1500 hours.
+
+Our Audio Techs are Specialists Adrick and Prinzing - Prinzing believes that Breitup may recognize him if he sees him, but will remain in the van so there is no reason that either Breitup or McCree should see either Audio Tech.
+
+The listening device is a napkin dispenser. It will dispense napkins, although not very many, so hope that Breitup and McCree aren't messy. Shippler will place the dispenser a little before they are expected to arrive.
+
+Hanson and Keilfer will be monitoring from an unmarked outside, Channel 11 on the two-ways. If you have trouble with the two-ways, use feeds/as12061500. People have been reporting some interference in that area so be prepared.
+
+When the drop is made, I will make the approach.
+
+Remember, Breitup and McCree are professionals. I expect they will behave sensibly. Treat them with some respect.
+|
+[[Image:Memo.jpg|400px]]
+|}
+
+==March 30, 2008==
+By logging in as Glenn Barhyte, a new document is found: #IA176495U.
+
+{| class="quote"
+|FORM # 24756TT/543<br>
+Official Investigation into Use of Deadly Force by Gotham Police Officer<br>
+CASE FILE # 4591023XN<br>
+INVOLVING OFFICER: Officer # 38739GPD, Sargeant [[Francis Notaro|Frank Notaro]]
+
+DATE: May 13
+
+Officer Frank Notaro testifies that he was walking home from a late movie at 2AM down Jackson Street in Downtown when he heard gunshots. He ran to the sounds, which is the alley in the 1300 block of Jackson between Columbus and Madison. There, he witnessed a man holding a semi-automatic weapon shooting at passers-by. One man was hit already and on the ground. Notaro says he raised his service revolver and shot the man within seconds. Notaro says he was defending the lives of citizens and felt as personal risk by the gunfire.
+
+INITIAL COMMENTS
+
+There are several inconsistencies in Sargeant Notaro's storiy (sic). The gunshot which killed the shooter, Richard Lukas Gould, appears to have been shot from a maximum of ten feet away. Yet Gould was found dead forty feet from the entrances of the alley on Jackson and Columus (sic). Thus, Notaro would have had to brave semi-automatic gunfire as he moved forward for up to thirty feet and then shot the man from ten feet away, which seems improbable. As well, the injuries to the passersby do not seem consistent with the incident report. Analysis of the shots to the foot and thigh of the two injured passersby reveals that the gunshot was from a different caliber weapon from the one retrieved at the scene.
+
+RECOMMENDATION
+
+The inconsistencies in the story by Officer Notaro demand investigation. I recommend an expanded probe into the incident and the suspension of Officer Notaro until conclusion of probe.
+
+FOLLOW UPS
+
+October 4     Probe rejected for budgetary reasons
+March 25     Case file declared closed
+
+|[[Image:Image:Iad-2200.jpg|300px]]
+|}
+
+
+{| class="nav" align="center"
+| ([[Gothampolice.com/secureinternaldocuments]]) -- '''[http://www.gothampolice.com/secureinternaldocuments/ direct link]'''
+|}

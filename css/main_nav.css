@@ -1,0 +1,164 @@
+#nav {
+	behavior:url(../js/csshover.htc);
+	width:958px;
+}
+ 
+/*overall menu formatting*/
+.menu {
+	font-stretch: expanded;
+	position: relative;
+}
+
+.menu ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.menu li {
+	float:left;
+	display: inline;
+	margin: 0 5px 0 0;
+	padding: 0;
+}
+
+
+.menu a {
+	font: bold 1em Verdana, Helvetica, sans-serif;
+	float:left;
+	display:block;
+	color:#606040;
+	background: #c0a060 url(../images_pres/leftedge.gif) no-repeat left top; /*default background color of tabs, left corner image*/
+	margin:0 4px 0 0;
+	padding:0 0 0 5px;
+}
+
+
+.menu a span {
+	float: left;
+	display: block;
+	background: transparent url(../images_pres/rightedge.gif) no-repeat right top; /*right corner image*/
+	height:18px;
+	padding: 7px 9px 3px 6px;
+	cursor: pointer;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {.menu a span{padding-bottom:2px;}}
+
+/*home page menu formatting with selected tab, no drop downs*/
+.here_home  a {
+	font: bold 1em Verdana, Helvetica, sans-serif;
+	float:left;
+	display:block;
+	color:#606040;
+	background:#ededc1 url(../images_pres/leftedge.gif) no-repeat left top; /*default background color of tabs, left corner image*/
+	margin:0 4px 0 0;
+	padding:0 0 0 5px;
+	}
+
+.here_home a span {
+	color:#606040;
+	float: left;
+	display: block;
+	background:transparent url(../images_pres/rightedge.gif) no-repeat right top; /*default background color of tabs, right corner image*/
+	padding: 7px 9px 3px 6px;
+	}
+
+/*dropdown menu with selected tab*/
+.here a {
+	font: bold 1em Verdana, Helvetica, sans-serif;
+	float:left;
+	display:block;
+	color:#606040;
+	background: #ededc1 url(../images_pres/leftedge.gif) no-repeat left top; /*default background color of tabs, left corner image*/
+	margin:0 4px 0 0;
+	padding:0 0 0 5px;
+}
+		
+.here a span {
+	color:#606040;
+	float: left;
+	display: block;
+	background:transparent url(../images_pres/rightedge.gif) no-repeat right top; /*default background color of tabs, right corner image*/
+	padding: 7px 9px 3px 6px;
+	cursor: pointer;
+	}
+		
+.menu .here  :hover .select_sub, 
+.menu .here .current .show {
+	display:block; 
+	position:absolute; 
+	width:99.5%;
+	left:0;
+	top:1.8em; 
+	background:url(../images_pres/back.gif); 
+	padding:0.3em; 
+	z-index:100; 
+	text-align:center;
+}
+		
+
+.menu .here .current .show {
+	z-index:10;
+	}
+
+.menu .here :hover .sub li a:hover, 
+.menu .here .current .sub li a:hover {
+visibility:visible; 
+	}
+		
+/*link actions*/
+.menu  a:link, .menu a:visited, .menu a:active {
+	text-decoration:none;
+	}
+ 
+.menu span:hover {
+	color:#606040;
+	}
+
+.menu .select a:hover {
+	background-color: #ede8cf; /*background color of tabs onMouseover*/
+}
+
+
+/* Sub level menus*/
+.menu .select_sub {
+	display:none;
+}
+
+/* Sub level menu links style */
+.menu .select :hover .select_sub, 
+.menu .current .show {
+	display:block; 
+	position:absolute; 
+	width:99%;
+	left:0;
+	top:1.8em; 
+	background-image:url(../images_pres/back.gif); 
+	padding:0.4em; 	
+	}
+
+.menu .current .show {
+	z-index:100;
+	}
+
+.menu .select :hover .sub li a:hover, 
+.menu .current .sub li a:hover {
+	visibility:visible;
+	}
+
+.menu ul li ul li a {
+	font:bold 0.85em Verdana, Arial, sans-serif;
+	text-align:center;
+	padding:0.6em 6.5em;
+	background:#e0c590; /*sub menu background color */
+	color:#606040;
+	}
+
+.menu ul li ul li a:hover { /*sub menu links' background color onMouseover. Add rounded edges in capable browsers */
+	background-color:#ede8cf;
+	-webkit-border-radius:5px;  
+	-moz-border-radius:5px; 
+	-khtml-border-radius:5px;  
+	border-radius:5px;
+}

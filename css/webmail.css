@@ -1,0 +1,38 @@
+table {
+	width:100%;
+	border-collapse:collapse;
+	font-size:0.7em;
+	margin-bottom:1.5em;
+	}
+
+th {
+	font-size:1.1em;
+	background-color:#dfdba6;
+	border:1px solid #c6c176;
+	height:2em;
+	padding:0.5em;
+	}
+tr {
+	background-color:#fff;
+	}
+	
+td {
+	border:1px solid #c6c176;
+	padding:0.5em;
+	}
+	
+.alt {
+	background-color:#f6f6e4;
+	}
+
+.message {
+	width:40%;
+	}
+
+.from {
+	width:30%;
+	}
+
+.emaildate {
+	float:right;
+	}

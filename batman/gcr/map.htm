@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Gotham City Rail</title>
+   <style type="text/css">
+        @import "css/main.css";
+   </style> 
+   <script type="text/javascript" src="../../joker/WSS/games/AC_RunActiveContent.js"></script>
+   <script type="text/javascript" src="../../joker/WSS/games/detection.js"></script>
+   <script type="text/vbscript" src="../../joker/WSS/games/lashutil.vbs"></script>     
+   <script type="text/javascript" src="config.js"></script>  
+ 
+
+</head>
+<body>
+
+
+        <div id="homeContainer">
+            <div id="header"></div>
+            <table cellpadding="0" cellspacing="0">
+            <tr>
+                    <td align="left" valign="top";>
+                        <img src="map_02.jpg" alt="" border="0" usemap="#Map" />
+                    </td>
+
+                    <td align="left" rowspan="2">
+                            <div id="mapContent">
+                                <div style="height:81px; overflow:hidden; background-color:#064530;"><img alt="" src="transitheader.jpg" /></div>
+                                        <div style="width:776px; height:534px; overflow:hidden; position:relative; top:0px; z-index:3; background-color:#064530;">
+		                                       <script language="JavaScript" type="text/javascript">
+				                                    swfUrl = 'swfs/railmap'; 
+				                                    myWidth = '776';
+				                                    myHeight = '534';
+				                                    myID = 'map';
+				                                    myBGColor = '#064530'; 
+                                                    
+				                                    var hasRightVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+				                                    if(hasRightVersion) {  
+					                                    var arguments = new Array('id',myID,'codebase','http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0','width',myWidth,'height',myHeight,'align','middle','src',swfUrl,'FlashVars',flashvars,'quality','high','bgcolor',myBGColor,'name',myID,'allowscriptaccess','always','pluginspage','http://www.macromedia.com/go/getflashplayer','movie',swfUrl);
+					                                    var ret = AC_GetArgs(arguments, ".swf", "movie", "clsid:d27cdb6e-ae6d-11cf-96b8-444553540000", "application/x-shockwave-flash");
+					                                    AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+				                                    }                       				
+			                                    </script>	
+                                        </div>
+                            </div>                   
+                    </td>
+            </tr>
+
+            <tr>
+                <td align="left" id="filler" style="height:490px; background-image:url(home_04.jpg); background-repeat:repeat-y;" valign="top"></td>
+            </tr>
+            <tr>
+                <td align="left" colspan="2"><img alt="" src="home_06.jpg" /></td>
+            </tr>
+            </table>
+        </div>
+
+
+<map name="Map" id="Map"><area shape="rect" coords="3,3,205,37" href="home.htm" target="_self" alt="" />
+<area shape="rect" coords="6,85,200,118" href="timetable.htm" target="_self" alt="" />
+</map></body>
+</html>

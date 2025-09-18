@@ -1,0 +1,13 @@
+a:link {
+	color:#0B85FF;
+	text-decoration:underline;
+	font-size:0.9em;
+	}
+	
+a:hover {
+	text-decoration:none;
+	}
+	
+.close {
+	margin-top:2em;
+	}

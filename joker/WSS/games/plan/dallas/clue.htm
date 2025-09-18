@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta http-equiv="Content-Langage" content="en-us" />
+
+<title>Suck it I'm using an iframe</title><!--TITLE -->
+
+<style type="text/css">
+body {
+	background:#000;
+	}
+	
+body img {
+	cursor:pointer;
+	}
+</style>
+
+<script type="text/javascript">
+intImage = 2;
+function swapImage() {
+switch (intImage) {
+ case 1:
+   document.getElementById("img1").src = "clue.jpg"
+   intImage = 2
+   return(false);
+case 2:
+   document.getElementById("img1").src = "safe.jpg"
+   intImage = 3
+   return(false);
+case 3:
+   document.getElementById("img1").src = "safeturn.jpg"
+   intImage = 4
+   return(false);
+case 4:
+   document.getElementById("img1").src = "open.jpg"
+   intImage = 5
+   return(false);
+case 5:
+   document.getElementById("img1").src = "note.png"
+   intImage = 5
+   return(false);
+ }
+}
+</script>
+</head>
+<body>
+<center>
+<img id="img1" name="img1" src="clue.jpg" 
+ onclick="swapImage();" />
+ </center>
+ </body>
+</html>
+

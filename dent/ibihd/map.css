@@ -1,0 +1,58 @@
+/* Universal styles */
+#mapcontainer {background:transparent url(dentmobilemap/mapbkgd.jpg) no-repeat top center;width:930px;height:746px;overflow:hidden;position:relative;}
+
+.popupwest {	background:transparent url(dentmobilemap/3.png) no-repeat top center;position:absolute;display:none;width:475px;height:252px;
+	top:-5px;
+	left:-5px;
+	text-align:left;overflow:hidden;z-index:100;}
+	
+.popupwest p {width:38%;padding:35px 0 0 35px;line-height:1.5em;}
+
+.popupeast {	background:transparent url(dentmobilemap/3.png) no-repeat top center;position: absolute;display:none;width:475px;height:252px;
+	top:-5px;
+	left:-452px;
+	text-align:left;overflow:hidden;z-index:100;}
+	
+.popupeast p {width:38%;padding:35px 0 0 35px;line-height:1.5em;}
+
+/* Locations */ 
+.seattle {position:absolute;top:72px;left:152px;} .seattle:hover .popupwest, .seattle .popupwest:hover {display:block;}
+.portland {position:absolute;top:118px;left:125px;} .portland:hover .popupwest, .portland .popupwest:hover {display:block;}
+.sf {position:absolute;top:244px;left:95px;} .sf:hover .popupwest, .sf .popupwest:hover {display:block;}
+.la {position:absolute;top:312px;left:125px;} .la:hover .popupwest, .la .popupwest:hover {display:block;}
+.scottsdale {position:absolute;top:332px;left:225px;} .scottsdale:hover .popupwest, .scottsdale .popupwest:hover {display:block;}
+.tucson {position:absolute;top:360px;left:240px;} .tucson:hover .popupwest, .tucson .popupwest:hover {display:block;}
+.boulder {position:absolute;top:242px;left:332px;} .boulder:hover .popupwest, .boulder .popupwest:hover {display:block;}
+.denver {position:absolute;top:262px;left:347px;} .denver:hover .popupwest, .denver .popupwest:hover {display:block;}
+.springs {position:absolute;top:280px;left:332px;} .springs:hover .popupwest, .springs .popupwest:hover {display:block;}
+.austin {position:absolute;top:428px;left:435px;} .austin:hover .popupwest, .austin.popupwest:hover {display:block;}
+.station {position:absolute;top:420px;left:475px;} .station:hover .popupwest, .station .popupwest:hover {display:block;}
+.houston {position:absolute;top:445px;left:475px;} .houston:hover .popupwest, .houston .popupwest:hover {display:block;}
+.kc {position:absolute;top:265px;left:485px;} .kc:hover .popupeast, .kc .popupeast:hover {display:block;}
+.columbia {position:absolute;top:275px;left:521px;} .columbia:hover .popupeast, .columbia .popupeast:hover {display:block;}
+.stlouis {position:absolute;top:282px;left:550px;} .stlouis:hover .popupeast, .stlouis .popupeast:hover {display:block;}
+.minn {position:absolute;top:158px;left:495px;} .minn:hover .popupeast, .minn .popupeast:hover {display:block;}
+.madison {position:absolute;top:173px;left:550px;} .madison:hover .popupeast, .madison .popupeast:hover {display:block;}
+.chicago {position:absolute;top:212px;left:575px;} .chicago:hover .popupeast, .chicago .popupeast:hover {display:block;}
+.bend {position:absolute;top:225px;left:606px;} .bend:hover .popupeast, .bend .popupeast:hover {display:block;}
+.lansing {position:absolute;top:172px;left:615px;} .lansing:hover .popupeast, .lansing .popupeast:hover {display:block;}
+.arbor {position:absolute;top:190px;left:633px;} .arbor:hover .popupeast, .arbor .popupeast:hover {display:block;}
+.lex {position:absolute;top:280px;left:634px;} .lex:hover .popupeast, .lex .popupeast:hover {display:block;}
+.cinci {position:absolute;top:252px;left:638px;} .cinci:hover .popupeast, .cinci .popupeast:hover {display:block;}
+.columbus {position:absolute;top:226px;left:650px;} .columbus:hover .popupeast, .columbus .popupeast:hover {display:block;}
+.atlanta {position:absolute;top:355px;left:655px;} .atlanta:hover .popupeast, .atlanta .popupeast:hover {display:block;}
+.talla {position:absolute;top:416px;left:650px;} .talla:hover .popupeast, .talla .popupeast:hover {display:block;}
+.gainesville {position:absolute;top:437px;left:705px;} .gainesville:hover .popupeast, .gainesville .popupeast:hover {display:block;}
+.philly {position:absolute;top:210px;left:750px;} .philly:hover .popupeast, .philly .popupeast:hover {display:block;}
+.dc {position:absolute;top:248px;left:744px;} .dc:hover .popupeast, .dc .popupeast:hover {display:block;}
+.baltimore {position:absolute;top:231px;left:748px;} .baltimore:hover .popupeast, .baltimore .popupeast:hover {display:block;}
+.nyc {position:absolute;top:198px;left:775px;} .nyc:hover .popupeast, .nyc .popupeast:hover {display:block;}
+.ri {position:absolute;top:175px;left:800px;} .ri:hover .popupeast, .ri .popupeast:hover {display:block;}
+.boston {position:absolute;top:160px;left:812px;} .boston:hover .popupeast, .boston .popupeast:hover {display:block;}
+
+/* CSS onclick switch */
+.cssonclickswitch {width:100px;float:left;text-align:center;}
+.cssonclickswitch li{list-style:none;display:inline;}
+.cssonclickswitch a {color:#0000D5;}
+.cssonclickswitch a img {border:0;width:222px;}
+.cssonclickswitch a span {display:none;}.cssonclickswitch a:active span,.cssonclickswitch a:focus span {display:block;position:absolute;top:30px;left: 220px;}

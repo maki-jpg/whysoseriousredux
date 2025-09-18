@@ -1,0 +1,73 @@
+﻿body 
+{
+    background-color:Black;
+    margin:0px;
+}
+
+
+img
+{
+    border:0px;
+}
+
+
+.faceCell
+{
+    width:126px;
+    height:190px;
+    padding-left:6px;
+    padding-right:6px;   
+}
+
+
+.nameText
+{
+    color:#ec1919;
+    font-family:Verdana;
+    font-size:12px;
+    font-weight:bold;
+    position:relative;
+    top:5px;
+}
+
+
+.nameText2
+{
+    color:#ffffff;
+    font-family:Verdana;
+    font-size:12px;
+    font-weight:bold;
+    position:relative;
+    top:5px;
+}
+
+
+.survTable
+{
+    padding-top:40px;    
+    width:850px;
+}
+
+.survCell
+{
+    vertical-align:top;
+    width:147px;
+    height:146px;
+    padding-top:0px;
+}
+
+.survText
+{
+    padding-top:8px;
+    color:White;
+    font-family:Times;
+    font-size:12px;
+}
+
+
+.pageNum
+{
+    color:#ec1919;
+}
+
+

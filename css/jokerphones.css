@@ -1,0 +1,39 @@
+table {
+	width:100%;
+	border-collapse:collapse;
+	font-size:0.7em;
+	margin:1.5em 0;
+	}
+
+th {
+	font-size:1.1em;
+	background-color:#dfdba6;
+	border:1px solid #c6c176;
+	height:2em;
+	padding:0.5em;
+	}
+tr {
+	background-color:#fff;
+	}
+	
+td {
+	border:1px solid #c6c176;
+	padding:0.5em;
+	}
+	
+.alt {
+	background-color:#f6f6e4;
+	}
+
+.three {
+	width:35%;
+	}
+	
+.four {
+	width:25%;
+	}
+
+.note {
+	font-size:0.85em;
+	text-align:center;
+	}

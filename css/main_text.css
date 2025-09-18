@@ -1,0 +1,221 @@
+/* General text styling */
+h1 {
+	font-weight:bold;
+	font-size:1.4em;
+	margin:1.5em 0 1em 0;
+	line-height:1.6em;
+	padding:0;
+	}		
+
+h2 {
+	font-weight:bold;
+	font-size:1.2em;
+	}
+	
+h3 {
+	font-weight:bold;
+	font-size:1.1em;
+	line-height:1.3em;
+	}
+
+h4 {
+	font-size:1em;
+	font-weight:bold;
+	margin-bottom:0;
+	padding-top:0.5em;
+	text-indent:1.5em;
+	}
+	
+p {
+	font-weight:normal;
+	font-size:0.8em;
+	margin:1em 0;
+	text-indent:3em;
+	line-height:1.8em;
+	word-wrap: break-word; 
+	}
+	
+/* Links */	
+a:link {
+	color:#006AC6;
+	padding-bottom:0.001em;
+	text-decoration:none;
+	}
+	
+a:visited  {
+	color:#B80B8A;
+	text-decoration:none;
+	}
+		
+a:hover {
+	color:#FF660B;
+	text-decoration:none;
+	border-bottom:1px dashed #FF660B;
+	}	
+	
+h3 a:link {
+	border:0;
+	}
+	
+/* Underlined stuff */	
+.speaker {
+	text-decoration:underline;
+	}
+	
+.speaker a {
+	border:0px;
+
+	}
+	
+/* Styling for lists */
+.smalllist {
+	font-size:0.8em;
+	line-height:1.8em;
+	text-indent:auto;
+	}
+	
+.leads .smalllist li {
+	margin-top:0.9em;
+	}
+	
+.swag .smalllist li {
+	margin-top:0.9em;
+	line-height:1.6em;
+	}
+	
+.none {
+	list-style-type:none;
+	}
+
+	
+/* Styling for titles in descriptions */	
+.date {
+	font-weight:bold;
+	font-size:0.8em;
+	text-indent:1.8em;
+	margin:-1.5em 0 1em 0;
+	}
+
+.label {
+	text-indent:0;
+	padding-top:2em;
+	border-bottom:2px dotted black;
+	}
+
+.label a {
+	border:0;
+	}
+	
+.login {
+	text-indent:1em;
+	margin-top:1em;
+	border-bottom:1px dotted #06414C;
+	}
+	
+.login a{
+	text-decoration:none;
+	border:0px;
+	}
+	
+/* Styling for description boxes */	
+.email {
+	display:block;
+	background:#fffff8;
+	margin-right:auto;
+	margin-left:auto;
+	margin-bottom:1em;
+	padding:1em;
+	font-size: 0.75em;
+	width:31em;
+	line-height:1.4em;
+	border-left:15px solid #FFEFBF;
+	border-top:1px solid #e5e5e5;
+	border-right:1px solid #e5e5e5;
+	border-bottom:1px solid #e5e5e5;
+	word-wrap: break-word; 
+	}	
+
+.news .email:first-line {
+	font-weight:bold;
+	}
+
+/* Styling for monospaced description boxes */
+.mono {
+	font-family: courier, monospace;
+	display:block;
+	background:#fffff8;
+	margin-right:auto;
+	margin-left:auto;
+	padding:1em;
+	font-size: 0.85em;
+	width:60%;
+	text-align:center;
+	line-height:1.4em;
+	border-left:15px solid #FFEFBF;
+	border-top:1px solid #e5e5e5;
+	border-right:1px solid #e5e5e5;
+	border-bottom:1px solid #e5e5e5;
+	}	
+		
+/* Navigational scrolling action after description boxes */
+.leaddown {
+	font-size:0.7em;
+	text-align:right;
+	margin:-1em 9em 1em 0;
+	}
+	
+		
+/* Styling for the "back to top" link */
+.toplink {
+	text-align:right;
+	}
+	
+.toplink a {
+	background: transparent url(../images_pres/uparrow.gif) no-repeat top right;
+	text-decoration: none;
+	border-bottom:0px;
+	padding-right:1em;
+	}
+	
+.toplink a:hover {
+	text-decoration:none;
+	}
+	
+/* Styling for the "next arrow" */
+.outlink  {
+	text-align:right;
+	text-indent:-1em;
+	}	
+	
+.outlink a {
+	background: transparent url(../images_pres/nextarrow.gif) no-repeat center right;
+	text-decoration: none;
+	border-bottom:0px;
+	padding-right: 3em; /*adjust bullet image padding*/
+	}
+
+.outlink a:hover {
+	text-decoration:none;
+	}
+	
+/* Styling for new window links */	
+.newwindow  {
+	text-align:right;
+	padding-bottom:1em;
+	margin-top:-1em;
+	border-bottom:0px;
+	font-weight:bold;
+	}
+	
+.newwindow a {
+	background: transparent url(../images_pres/newwindow.gif) no-repeat top right;
+	text-decoration:none;
+	border-bottom:0px;
+	padding-right:1.3em;
+	font-weight:normal;
+	}
+
+.newwindow a:hover {
+	text-decoration:none;
+	font-weight:normal;
+	}

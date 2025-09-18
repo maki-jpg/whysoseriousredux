@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<cross-domain-policy>
+  <allow-access-from domain="www.whysoserious.com" secure="false" />
+  <allow-access-from domain="whysoserious.com" secure="false" />
+  <allow-access-from domain="assets.whysoserious.com" secure="false" />
+</cross-domain-policy>

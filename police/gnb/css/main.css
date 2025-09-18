@@ -1,0 +1,52 @@
+body 
+{
+    margin-top:0px;
+    margin-left:0px;
+    margin-bottom:0px;
+    margin-right:0px;
+    background-color:#ffffff;
+    background-image:url(../tile.jpg);
+    background-repeat:repeat;
+}
+
+
+img
+{
+    border:0px;
+}
+
+
+a:link, a:hover, a:active, a:visited
+{
+    color:Black;
+}
+
+
+div
+{
+    color:#032c20;
+    margin:0px;
+    border:0px;
+    padding:0px;
+    font-family:Verdana;
+    font-size:11px;
+    vertical-align:top;
+    background-color:White;
+    text-align:left;
+}
+
+
+table td
+{
+    vertical-align:top;
+    background-color:White;
+    text-align:left;
+}
+
+
+#locationContainer
+{
+    margin-left:0px;
+    margin-right:0px;
+    width:991px;
+}

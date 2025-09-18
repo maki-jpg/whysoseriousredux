@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta http-equiv="Content-Langage" content="en-us" />
+
+<title>Suck it I'm using an iframe</title><!--TITLE -->
+
+<style type="text/css">
+
+body {
+	background:#f0f0c0;
+	font-family:verdana,arial, helvetica, sans-serif;
+	font-size:0.7em;
+	}
+	
+body img {
+	cursor:pointer;
+	}
+	
+.toggle {
+	font-size:0.8em;
+	margin-bottom:0.3em;
+	}
+	
+a:link {
+	color:#0000CC;
+	padding-bottom:0.001em;
+	border-bottom:1px dotted #0000CC;
+	text-decoration:none;
+	}
+	
+a:visited  {
+	color:#B80B8A;
+	text-decoration:none;
+	border-bottom:1px dotted #B80B8A;
+	}
+		
+a:hover {
+	color:#FF660B;
+	text-decoration:none;
+	border-bottom:0px solid #0000CC;
+	}	
+	
+</style>
+
+<script type="text/javascript">
+intImage = 2;
+function swapImage() {
+switch (intImage) {
+ case 1:
+   document.getElementById("img1").src = "17.png"
+   intImage = 2
+   return(false);
+case 2:
+   document.getElementById("img1").src = "17b.png"
+   intImage = 1
+   return(false);
+ }
+}
+</script>
+</head>
+<body>
+<center>
+<div class="toggle">Click on card to toggle front and back</div>
+<img id="img1" name="img1" src="17.png" 
+ onclick="swapImage();" />
+
+ <br /><br />
+Click <a href="scans/card17.zip">here</a> to download this card in high-quality
+ </center>
+ </body>
+</html>
+

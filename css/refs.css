@@ -1,0 +1,46 @@
+#refchar {
+	width:40%;
+	display:block;
+	float:left;
+	margin-right:2em;
+	margin-top:-1em;
+	}
+		
+#refplot {
+	width:60%;
+	display:block;
+	float:right;
+	}
+	
+#header {
+	display:block;
+	float:left;
+	}
+
+ul {
+	margin-left:-3em;	
+	}
+	
+.refpic li {
+	display:inline;
+	list-style:none;
+	}
+
+.refpic img {
+	height:78px;
+	width:78px;
+	display:block;
+	float:left;
+	margin:0.2em;
+	filter:alpha(opacity=80);
+	opacity:0.8;
+	}
+	
+.refpic a {
+	border:0;
+	}
+	
+.refpic  a:hover img {
+	filter:alpha(opacity=100);
+	opacity:1;
+	}

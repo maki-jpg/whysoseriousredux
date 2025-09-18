@@ -1,0 +1,300 @@
+body 
+
+{
+
+    margin:0px;
+
+    background-color:#ffffff;
+
+    background-image:url(../tile.jpg);
+
+    background-repeat:repeat;
+
+}
+
+
+
+
+
+img
+
+{
+
+    border:0px;
+
+}
+
+
+
+
+
+a:link, a:hover, a:active, a:visited
+
+{
+
+    color:Black;
+
+}
+
+
+
+
+
+div
+
+{
+
+    color:#032c20;
+
+    margin:0px;
+
+    border:0px;
+
+    padding:0px;
+
+    font-family:Verdana;
+
+    font-size:11px;
+
+    vertical-align:top;
+
+    background-color:White;
+
+}
+
+
+
+
+
+#privacyTD
+
+{
+
+    padding-bottom:10px; 
+
+    background-image:url(../tile.jpg);
+
+    background-repeat:repeat; 
+
+}
+
+
+
+
+
+#homeContainer
+
+{
+
+    width:991px;
+
+    margin:0px;
+
+    /*background-color:Transparent;*/
+
+}
+
+
+
+
+
+#header
+
+{
+
+    background-image:url(../home_01.jpg);
+
+    background-repeat:no-repeat;
+
+    height:163px;
+
+}
+
+
+
+#homeContent
+
+{
+
+    width:776px;
+
+    height:723px;
+
+    background-image:url(../homeContentBkgd2.jpg);
+
+    background-repeat:no-repeat;
+
+    background-position:top;
+
+}
+
+
+
+
+
+#serviceAlert
+
+{
+
+    width:461px;
+
+    padding-top:62px;
+
+    padding-left:28px;
+
+    background-color:Transparent;
+
+}
+
+
+
+
+
+#adoptabus
+
+{
+
+    width:175px;
+
+    position:relative;
+
+    left:555px;
+
+    bottom:247px;
+
+}
+
+
+
+
+
+#news
+
+{
+
+/*    width:436px;
+
+    position:relative;
+
+    left:60px;
+
+    top:5px;   
+
+*/
+
+}
+
+
+
+
+
+#news2
+
+{
+
+/*    width:436px;
+
+    position:relative;
+
+    left:60px;
+
+    top:10px;   
+
+*/
+
+}
+
+
+
+
+
+#news3
+
+{
+
+/*    width:436px;
+
+    position:relative;
+
+    left:60px;
+
+    top:27px;   
+
+*/
+
+}
+
+
+
+
+
+#news4
+
+{
+
+/*    width:436px;
+
+    position:relative;
+
+    left:60px;
+
+    top:43px;   
+
+*/
+
+}
+
+
+
+
+
+
+
+#bkgdDiv
+
+{
+
+    width:776px;
+
+    height:723px;
+
+    background-position:top;
+
+}
+
+
+
+
+
+#notice
+
+{
+
+    text-align:center;
+
+    background-color:Transparent;
+
+    padding-top:250px;
+
+    font-weight:bold;
+
+}
+
+
+
+
+
+#mapContent
+
+{
+
+    width:776px;
+
+    height:613px;
+
+    background-repeat:no-repeat;
+
+    background-position:top;
+
+}
+

@@ -1,0 +1,164 @@
+/* Main style */
+#side_nav {
+	background:#fffff8;
+	width:30%;
+	float:left;
+	}
+	
+#side_nav h2 {
+	margin:0.1em;
+	}
+
+#content_right {
+	width:67%;
+	background:#f5f6e5;
+	float:left;
+	margin:0 0 1em 1em;
+	}
+	
+#content_right_inner {
+	padding:0 2em 1em 2.2em;
+	}
+
+	
+/* Overview styling */	
+#short {
+	font-size:0.7em;
+	line-height:1.5em;
+	padding:1em;
+	margin-top:5em;
+	border-left:10px solid #004080;
+	border-right:1px solid #CCCCCC;
+	border-top:1px solid #CCCCCC;
+	border-bottom:1px solid #CCCCCC;
+	}
+
+/* Mugshot for suspects section */
+#mugshot {
+	display:block;
+	float:right;
+	margin-top:-5em;
+	}
+	
+#mugshot img{
+	padding:0.2em;
+	margin-left:0.2em;
+	margin-right:-0.1em;
+	width:160px;
+	height:200px;
+	border:1px solid transparent;
+	}
+
+#mugshot a {
+	border:0px;
+	}
+	
+#mugshot a:hover img {
+	border:1px solid #06414C;
+	}
+	
+.name {
+	font-size:1.6em;
+	margin-top:5em;
+	}
+	
+.title {
+	margin:-1em 0 3em 0;
+	line-height:1.5em;
+	}
+
+.intitle {
+	text-align:right;
+	margin-bottom:2em;
+	font-size:1.4em;
+	}
+	
+/* Treeview nav bar styling */
+#browser:first-child {
+	font-weight:bold;
+	font-variant:small-caps;
+	}
+	
+.treeview strike {
+	color:red;
+	}
+
+.treeview a:link , .treeview a:visited {
+	text-decoration:none;
+	border-bottom:0px;
+	}
+
+.treeview, .treeview ul { 
+	font:0.9em "Lucida Sans", verdana, arial, helvetica, sans-serif;
+	line-height:1.2em;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.treeview ul {
+	background-color:#fffff8;
+	margin-top: 4px;
+}
+
+.treeview ul li .folder {
+	margin-top:0.2em;
+	}
+
+.treeview .hitarea {
+	background: url(../js/images/treeview-default.gif) -64px -25px no-repeat;
+	height: 16px;
+	width: 16px;
+	margin-left: -16px;
+	float: left;
+	cursor: pointer;
+}
+/* fix for IE6 */
+* html .hitarea {
+	display: inline;
+	float:none;
+}
+
+.treeview li { 
+	margin: 0;
+	padding: 3px 0pt 3px 16px;
+}
+
+.treeview a.selected {
+	background-color: #BFDFFF;
+}
+
+#treecontrol { margin: 1em 0; display: none; }
+
+.treeview .hover { color: #FF660B; cursor: pointer; }
+
+.treeview li { background: url(../js/images/treeview-default-line.gif) 0 0 no-repeat; }
+.treeview li.collapsable, .treeview li.expandable { background-position: 0 -176px; }
+
+.treeview .expandable-hitarea { background-position: -80px -3px; }
+
+.treeview li.last { background-position: 0 -1766px }
+.treeview li.lastCollapsable, .treeview li.lastExpandable { background-image: url(../js/images/treeview-default.gif); }  
+.treeview li.lastCollapsable { background-position: 0 -111px; }
+.treeview li.lastExpandable { background-position: -32px -67px; }
+
+.treeview div.lastCollapsable-hitarea, .treeview div.lastExpandable-hitarea { background-position: 0; }
+
+.treeview-red li { background-image: url(../js/images/treeview-red-line.gif); }
+.treeview-red .hitarea, .treeview-red li.lastCollapsable, .treeview-red li.lastExpandable { background-image: url(../js/images/treeview-red.gif); } 
+
+.treeview-black li { background-image: url(../jsimages/treeview-black-line.gif); }
+.treeview-black .hitarea, .treeview-black li.lastCollapsable, .treeview-black li.lastExpandable { background-image: url(../js/images/treeview-black.gif); }  
+
+.treeview-gray li { background-image: url(../js/images/treeview-gray-line.gif); }
+.treeview-gray .hitarea, .treeview-gray li.lastCollapsable, .treeview-gray li.lastExpandable { background-image: url(../js/images/treeview-gray.gif); } 
+
+.treeview-famfamfam li { background-image: url(../js/images/treeview-famfamfam-line.gif); }
+.treeview-famfamfam .hitarea, .treeview-famfamfam li.lastCollapsable, .treeview-famfamfam li.lastExpandable { background-image: url(../js/images/treeview-famfamfam.gif); } 
+
+
+.filetree li { padding: 3px 0 2px 16px; }
+.filetree span.folder, .filetree span.file { padding: 1px 0 1px 16px; display: block; }
+.filetree span.folder { background: url(../js/images/folder.gif) 0 0 no-repeat;}
+.filetree li.expandable span.folder { background: url(../js/images/folder-closed.gif) 0 0 no-repeat; }
+.filetree span.file { background: url(../js/images/file.gif) 0 0 no-repeat; }

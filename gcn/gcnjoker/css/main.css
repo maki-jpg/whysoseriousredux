@@ -1,0 +1,279 @@
+﻿body 
+{
+  background:#000000;
+	margin:0;
+	padding:0;
+	border:0px;
+	font:normal 0.8em/1.2em verdana,aria,sans-serif;
+	color:#ffffff;
+	
+}
+
+#player {
+	padding:3px 0 0 85px;
+	}
+
+#default_body
+{
+    margin:0px;
+    background-color:Black;
+    background-image:url(../images/gcnbkgd2.jpg); background-repeat:no-repeat;
+    background-position:100% 100%;
+    background-attachment:fixed;
+}
+
+a:hover, a:link, a:visited, a:active { font-size:11px; color:#fff; }
+
+h1
+{
+    font-size:medium;
+    line-height:normal;
+    color:#566b98;
+}
+img 
+{
+    padding:0px;
+    margin:0px;
+    border:0px;
+}
+
+div 
+{
+    text-align:left; 
+        font-family:Arial; 
+        font-size:11px; 
+        color:#868686;   
+}
+      
+#wrapper
+{ 
+    background-image:url(../images/main_bg.jpg);
+    background-repeat:no-repeat;
+    width:970px;
+    padding:0px;
+    margin:0px;
+    border:0px;
+    overflow:hidden;
+}
+      
+table
+{
+   width:970px;
+   padding:0px;
+   margin:0px;
+   border:0px;
+   vertical-align:top;
+   overflow:hidden;
+   
+}  
+
+#banner
+{
+    width:970px;
+    height:136px;
+    background-image:url(../images/Banner.jpg);
+    overflow:hidden;
+}
+
+.col
+{
+    vertical-align:top;
+    height:726px;  
+}
+
+
+#left_nav
+{
+    vertical-align:top;
+    height:238px;
+ 
+    
+}	
+
+#links
+{
+    height:228px;
+}
+
+#traffic
+{
+    height:137px;
+}
+#weather
+{
+    height:123px;
+}
+
+#main_content
+{
+    
+    background-repeat:no-repeat;
+    height:726px;
+    width:628px;
+    
+}
+#story_header
+{
+    margin-right:18px;
+    margin-left:18px;
+    height:40px;
+    text-align:right;
+    padding-right:10px;
+    font-size:10px;
+    line-height:14px;
+    color:#fff;
+}
+
+#story_header a
+{
+    font-size:10px;
+    line-height:14px;
+    text-decoration:none;
+}
+
+#story
+{
+    overflow:visible;
+    background-color:#fff;
+    height:650px;
+    margin-right:18px;
+    margin-left:18px;
+    vertical-align:top;
+    padding:15px;
+    color:#000;
+    overflow:auto;
+   
+}
+
+#archive
+{
+    overflow:visible;
+    background-color:#fff;
+    height:650px;
+    margin-right:18px;
+    margin-left:18px;
+    vertical-align:top;
+    color:#000;
+    overflow:auto;
+   
+}
+
+#story a
+{
+    color:#666;
+}
+
+#story img
+{
+    float:right;
+    margin-left:5px;
+    margin-bottom:5px;
+}
+
+
+#main_video
+{
+    background-image:url("../images/main_content.jpg");
+    background-repeat:no-repeat;
+    height:393px;
+     width:628px;
+     
+}
+
+#accordion
+{
+   background-image:url("../images/accordion.jpg");
+    height:333px;
+    width:628px;
+    overflow: hidden; 
+}
+
+
+#accordionInner
+{
+    height:330px;
+    width:590px;
+    font-size:11px;
+    position:relative;
+    text-align:left;
+    overflow: hidden; 
+}
+
+#archiveInner
+{
+   
+    width:590px;
+    font-size:11px;
+    position:relative;
+    text-align:left;
+    overflow: hidden; 
+}
+
+.accordArticle
+{   
+    width:100%;
+    height:248px;
+    overflow:hidden; 
+    background-color:#344868;
+    color:#fff;
+    border-bottom: 1px solid #1d2840;
+	border-top: 1px solid #1d2840;
+	
+}
+
+
+.accordElement
+{
+    border-top: medium none; 
+    border-bottom: medium none; 
+    overflow: hidden; 
+    padding-top: 0px; 
+    padding-bottom: 0px; 
+    height: 0px;   
+}
+
+ul
+{
+    margin-top:0px;
+    margin-bottom:10px;
+}
+
+#top_ad
+{
+    height:393px;
+     vertical-align:top;
+    
+}
+#grassroots
+{
+    height:163px;
+    vertical-align:top;
+}
+#roadto
+{
+    height:170px;
+    vertical-align:top;
+ 
+}
+
+#footer 
+{
+    position:relative;
+    z-index:100;
+    height:152px;
+	margin:0;
+	padding-top:15px;
+	padding-left:175px;
+	background-image:url("../images/email.jpg");
+	background-position:top;
+	background-repeat:no-repeat;
+}
+
+#footer2 
+{
+    height:152px;
+	margin:0;
+	padding-top:45px;
+	padding-left:175px;
+	
+}

@@ -1,0 +1,60 @@
+body 
+{
+    margin:0px;
+    background-color:#ffffff;
+    background-image:url(tile.jpg);
+    background-repeat:repeat;
+}
+
+
+img
+{
+    border:0px;
+}
+
+
+a:link, a:hover, a:active, a:visited
+{
+    color:Black;
+}
+
+
+div
+{
+    color:#032c20;
+    margin:0px;
+    border:0px;
+    padding:0px;
+    font-family:Verdana;
+    font-size:11px;
+    vertical-align:top;
+    background-color:White;
+}
+
+
+table td
+{
+    vertical-align:top;
+    background-color:White;
+}
+
+
+#homeContainer
+{
+    margin-left:auto;
+    margin-right:auto;
+    width:991px;
+}
+
+
+#topBanner
+{
+    height:204px;
+
+}
+
+
+.transparent
+{
+    background-color:Transparent;
+}

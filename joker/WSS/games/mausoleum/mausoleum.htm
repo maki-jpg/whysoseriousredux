@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>whysoserious</title>
+   <script type="text/javascript" src="../games/pAC_RunActiveContent.js"></script>
+   <script type="text/javascript" src="../games/detection.js"></script>
+   <script type="text/vbscript" src="../games/flashutil.vbs"></script>     
+   <script type="text/javascript" src="config.js"></script>
+
+</head>
+<body style="background-color:Black;">
+
+<center>
+		   <script language="JavaScript" type="text/javascript">
+		    
+				swfUrl = 'safe_final'; 
+				myWidth = '1266';
+				myHeight = '917';
+				myID = 'safe';
+				myBGColor = '#000000'; 
+                
+				var hasRightVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+				if(hasRightVersion) {  
+					var arguments = new Array('id',myID,'codebase','http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0','width',myWidth,'height',myHeight,'align','middle','src',swfUrl,'FlashVars',flashvars,'quality','high','bgcolor',myBGColor,'name',myID,'allowscriptaccess','always','pluginspage','http://www.macromedia.com/go/getflashplayer','movie',swfUrl);
+					var ret = AC_GetArgs(arguments, ".swf", "movie", "clsid:d27cdb6e-ae6d-11cf-96b8-444553540000", "application/x-shockwave-flash");
+					AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+				}       
+				
+			
+			</script>	
+			<object id="safe" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" name="safe" 
+			classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" align="middle" height="917" width="1266">
+			<param name="movie" value="safe_final.swf"> <param name="quality" value="high"> 
+			<param name="bgcolor" value="#000000"> <param name="allowscriptaccess" value="always"> <embed id="safe" src="safe_final.swf" 
+			quality="high" bgcolor="#000000" name="safe" allowscriptaccess="always" pluginspage="http://www.macromedia.com/go/getflashplayer" 
+			type="application/x-shockwave-flash" align="middle" height="917" width="1266"></object>
+			
+</center>
+
+</body>
+</html>

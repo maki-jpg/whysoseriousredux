@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta http-equiv="Content-Langage" content="en-us" />
+
+<title>Let the good times roll, SHH!</title>
+
+<script type="text/javascript" src="../../js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="../../js/jquery.scrollTo-min.js"></script>
+<script type="text/javascript" src="../../js/jquery.serialScroll-min.js"></script>
+
+
+<script language="javascript" type="text/javascript">
+	function popup(url) {
+		newwindow=window.open(url,'name','scrollbars=yes','height=1400,width=778');
+		if (window.focus) {newwindow.focus()}
+		return false;
+		}
+</script>
+
+<script type="text/javascript">	
+		jQuery(function( $ ){
+
+			$('#content').serialScroll({
+				target:'#pane',
+				items:'td', //selector to the items ( relative to the matched elements, '#pane' in this case )
+				prev:'#buttons div.prev',//selector to the 'prev' button (absolute!, meaning it's relative to the document)
+				next:'#buttons div.next',//selector to the 'next' button (absolute too)
+				axis:'xy',//the default is 'y'
+				stop:true,//each click will stop any previous animations of the target. (false by default)
+				duration:900,//length of the animation (if you scroll 2 axes and use queue, then each axis take half this time)
+				force:false, //force a scroll to the element specified by 'start' (some browsers don't reset on refreshes)
+			});	
+			
+		});
+</script>
+
+<style type="text/css">
+	@import url(main.css);
+	@import url(../../css/lightbox.css);
+</style>
+
+<script type="text/javascript" src="../../js/lightbox.js"></script>
+
+
+<link rel="shortcut icon" href="http://www.superherohype.com/templates/superherohype/favicon.ico" type="image/x-icon" />
+
+</head>
+<body>
+
+<div id="content">
+<div id="pane">
+<table>
+	<tr>
+	<td>
+		<img src="barney.jpg" /><br />
+		<img src="barneyjoker.jpg" />
+	</td>
+	<td>
+		<img src="brokebathead.jpg" /><br />
+		<img src="brokebat.jpg" />
+	</td>
+	<td>
+		<div class="makeup">
+		<img src="makeuptestlabel.jpg" /><br />
+		<img src="fakemakeup.jpg" />
+		<img class="legolas" src="legolas.jpg" />
+		</div>
+	</td>
+	<td>
+		<img src="jokermobilelabel.jpg" /><br />
+		<img src="jokermobile.jpg" />
+	</td>
+	<td>
+		<a href="tsocfthread1.htm" onclick="return popup('tsocfthread1.htm')"><img src="tsocf.jpg" /></a>
+		<a href="../../joker/thehahahatimes/hahaha2p3.jpg" rel="lightbox"><img src="mustache.jpg" /></a>
+		<br />
+		<a href="tsocfthread.htm" onclick="return popup('tsocfthread.htm')"><img src="tsocf_signal.gif" /></a>
+	</td>
+	<td>
+		<img src="jokerbatmansmash.jpg" />
+	</td>
+	<td>
+		<a href="../../investigations/49loc.htm" target="_blank"><img src="alb.jpg" /></a><br />
+		<img src="denver.jpg" />
+	</td>
+	<td>
+		<img src="sixtenlabel.jpg" /><br />
+		<img src="sixten.jpg" />
+	</td>
+	<td>
+		<div class="puffy">
+		<img src="puffylabel.jpg" />
+		<img class="puffycompare" src="marshmallow.jpg" />
+		<img src="puffy.jpg" />
+		</div>
+	</td>
+	<td>
+		<img src="venomeye.jpg" />
+	</td>
+<td>
+		<img src="snowking.jpg" /><br />
+
+		<video width="500" controls title="Bootleg trailer" class="centered">
+    <source src="https://www.dropbox.com/scl/fi/3utl1fj7ehjqnuaa4ek1f/snowblowers.mp4?rlkey=sp9c3oap2eit7e04czy2iv97j&st=t4d4poaz&raw=1" type="video/mp4">
+</video>
+
+	</td>
+	<td>
+		<img src="hippowlabel.jpg" border="0" alt="" usemap="#hippo_Map" />
+	</td>
+	<td>
+		<img src="hungryhippos.gif" />
+	</td>
+	</tr>
+</table>
+</div>
+					
+
+<div id="buttons">
+<div class="prev"><a href="#">&#171;</a></div>
+<div class="next"><a href="#">&#187;</a></div>
+</div>
+</div>
+	
+      
+
+<map name="hippo_Map">
+<area shape="poly" coords="450,134,525,142,521,160,447,153" href="../../investigations/static.htm" target="_blank" />                    
+</body>
+</html>

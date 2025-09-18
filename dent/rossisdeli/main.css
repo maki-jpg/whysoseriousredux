@@ -1,0 +1,7 @@
+body 
+{
+    margin:0px;
+    background-image:url(pattern.jpg);
+    background-repeat:repeat-y;
+    background-position:center;
+}

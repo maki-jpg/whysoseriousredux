@@ -1,0 +1,37 @@
+.menu ul {
+	display:inline-table;
+	}
+
+.menu ul {
+	display:inline;
+
+	}
+
+.menu ul li {
+	float:left;		
+	margin-bottom:-0.3em;
+	}
+	
+.menu {
+	text-align:center;
+	}
+
+.menu .select a:hover b, 
+.menu .select li:hover a b {
+	float:none;
+	} 
+
+#content_box {
+	padding:1em 0;
+	}
+	
+#float_content_box {
+	position:absolute;
+	left:600px;
+	top:250px;
+	}
+	
+
+.gcnnav ul {
+	line-height:0.9em;
+	}

@@ -1,0 +1,14 @@
+.breadcrumb {
+	font: bold 0.7em "Lucida Sans", Verdana, Arial, Helvetica, sans-serif;
+	}
+
+.breadcrumb a {
+	text-decoration: none;
+	color:#004080;
+	border-bottom:0px;
+	}
+
+.breadcrumb a:hover {
+	text-decoration: underline;
+	border-bottom:0px;
+	}

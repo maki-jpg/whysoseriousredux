@@ -1,0 +1,32 @@
+﻿body 
+{
+    background-color:#000000;
+    margin:none;
+    border:none;
+    font-family:Verdana; 
+    font-size:10px;
+    color:#b4c9fe;
+}
+
+div 
+{
+    text-align:left; 
+}
+
+
+p
+{
+    margin:0px;
+    text-align:left;
+}
+
+img
+{
+    border:0px;
+}
+
+a:hover, a:link, a:active, a:visited
+{
+    border:0px;
+    color:White;
+}

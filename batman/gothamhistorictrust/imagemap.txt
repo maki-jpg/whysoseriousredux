@@ -1,0 +1,9 @@
+<img src="images/home.jpg" width="790" height="1202" border="0" alt="" usemap="#home_Map">
+<map name="home_Map">
+<area shape="rect" alt="Home" coords="391,73,452,91" href="../home.jpg" target="_self">
+<area shape="rect" alt="Wayne Family" coords="645,73,769,91" href="../wayne_family.jpg" target="_self">
+<area shape="rect" alt="Gotham History" coords="474,73,620,92" href="../gotham_history.jpg" target="_self">
+<area shape="rect" alt="Gotham Cathedral" coords="579,332,743,445" href="../cathedral.jpg" target="_self">
+<area shape="rect" alt="Uptown Gotham horse and carriage rides" coords="579,163,744,280" href="../horses.jpg" target="_self">
+<area shape="rect" alt="The old Clock Tower in Downtown Gotham" coords="44,163,522,481" href="../clocktower .jpg" target="_self">
+</map>

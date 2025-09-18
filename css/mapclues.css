@@ -1,0 +1,230 @@
+.mapbox {
+	display:block;
+	float:right;
+	width:475px;
+	height:800px;
+	font-size:0.7em;
+	color:#fff;
+	background:transparent url(../map/trailmap.jpg) no-repeat top center;
+	position:relative;
+	margin-top:3em;
+	}
+	
+.mapbox a {
+	color:#FF660B;
+	}
+
+.title {
+	float:left;
+	margin-left:0.7em;
+	}
+	
+#intro {
+	float:left;
+	width:42%;
+	background-color:#f5f6e5;
+	padding:1em;
+	}	
+	
+.memo {
+	position:absolute;
+	top:335px;
+	left:0;
+	width:192px;
+	line-height:145px;
+	height:145px;
+	text-align:center;
+	background-color:#004080;
+	opacity:0.15;
+	filter:alpha(opacity=15);
+	}
+
+.memo:hover {
+	opacity:0.85;
+	filter:alpha(opacity=85);
+	}
+	
+.atm  .one {
+	position:absolute;
+	top:0;
+	right:0;
+	width:140px;
+	line-height:240px;
+	height:240px;
+	text-align:center;
+	background-color:#005555;
+	opacity:0.15;
+	filter:alpha(opacity=15);
+	}
+
+.atm .one:hover {
+	opacity:0.85;
+	filter:alpha(opacity=85);
+	}
+	
+.atm  .two {
+	position:absolute;
+	top:240px;
+	left:0;
+	width:145px;
+	line-height:96px;
+	height:96px;
+	text-align:center;
+	background-color:#005555;
+	opacity:0.15;
+	filter:alpha(opacity=15);
+	}
+
+.atm .two:hover {
+	opacity:0.85;
+	filter:alpha(opacity=85);
+	}
+	
+.atm  .three {
+	position:absolute;
+	top:336px;
+	right:0;
+	width:140px;
+	line-height:145px;
+	height:145px;
+	text-align:center;
+	background-color:#005555;
+	opacity:0.15;
+	filter:alpha(opacity=15);
+	}
+
+.atm .three:hover {
+	opacity:0.85;
+	filter:alpha(opacity=85);
+	}
+	
+.atm  .four {
+	position:absolute;
+	top:480px;
+	left:0;
+	width:192px;
+	line-height:96px;
+	height:96px;
+	text-align:center;
+	background-color:#005555;
+	opacity:0.15;
+	filter:alpha(opacity=15);
+	}
+
+.atm .four:hover {
+	opacity:0.85;
+	filter:alpha(opacity=85);
+	}
+	
+.atm  .five {
+	position:absolute;
+	top:671px;
+	left:96px;
+	width:380px;
+	line-height:129px;
+	height:129px;
+	text-align:center;
+	background-color:#005555;
+	opacity:0.15;
+	filter:alpha(opacity=15);
+	}
+
+.atm .five:hover {
+	opacity:0.85;
+	filter:alpha(opacity=85);
+	}
+	
+.cab  .one {
+	position:absolute;
+	top:144px;
+	left:96px;
+	width:240px;
+	line-height:96px;
+	height:96px;
+	text-align:center;
+	background-color:#FFF295;
+	color:#000;
+	opacity:0.15;
+	filter:alpha(opacity=15);
+	}
+
+.cab .one:hover {
+	opacity:0.85;
+	filter:alpha(opacity=85);
+	}
+
+.cab  .two {
+	position:absolute;
+	top:336px;
+	left:192px;
+	width:144px;
+	line-height:144px;
+	height:144px;
+	text-align:center;
+	background-color:#FFF295;
+	color:#000;
+	opacity:0.15;
+	filter:alpha(opacity=15);
+	}
+
+.cab .two:hover {
+	opacity:0.85;
+	filter:alpha(opacity=85);
+	}
+
+.cab  .three {
+	position:absolute;
+	bottom:128px;
+	left:0;
+	width:192px;
+	line-height:96px;
+	height:96px;
+	text-align:center;
+	background-color:#FFF295;
+	color:#000;
+	opacity:0.15;
+	filter:alpha(opacity=15);
+	}
+
+.cab .three:hover {
+	opacity:0.85;
+	filter:alpha(opacity=85);
+	}
+
+.church  .one {
+	position:absolute;
+	top:240px;
+	left:144px;
+	width:144px;
+	line-height:96px;
+	height:96px;
+	text-align:center;
+	background-color:#008000;
+	color:#fff;
+	opacity:0.15;
+	filter:alpha(opacity=15);
+	}
+
+.church .one:hover {
+	opacity:0.85;
+	filter:alpha(opacity=85);
+	}
+
+.church  .two {
+	position:absolute;
+	top:480px;
+	left:192px;
+	width:144px;
+	line-height:192px;
+	height:192px;
+	text-align:center;
+	background-color:#008000;
+	color:#fff;
+	opacity:0.15;
+	filter:alpha(opacity=15);
+	}
+
+.church .two:hover {
+	opacity:0.85;
+	filter:alpha(opacity=85);
+	}

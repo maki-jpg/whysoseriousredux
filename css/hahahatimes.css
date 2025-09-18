@@ -1,0 +1,65 @@
+.ha {
+	text-align:right;
+	margin:0.5em 1em 1em 0;
+	}
+
+#gallery {
+	margin:1em 0 2em 2em;
+	padding:1em;
+	}
+	
+.hagallery a {
+	border:0;
+	}
+	
+.hagallery {
+	float:left;
+	}
+	
+.hagallery img {
+	display:inline;
+	margin:0.25em;
+	padding:0;
+	border:1px solid transparent;
+	}
+
+.hagallery a:hover img {
+	border:1px solid black;
+	}
+
+.desc {
+	width:85%;
+	background:#f5f6e5;
+	text-align:left;
+	padding:0 2em 1em 2em;
+	margin:0.5em 3em;
+	border:1px solid #e5e5e5;
+	}
+
+.desc p {
+	font-size:0.8em;
+	}
+	
+.desc  img {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	padding:1em;
+	}
+	
+#clues_inner {
+	width:100%;
+	float:left;
+	margin:0 0 1em 2em;
+	}
+	
+.clues {
+	display:block;
+	background:#fffff8;
+	width:20%;
+	float:left;
+	margin:0.5em;
+	font-size:0.7em;
+	padding:1em;
+	border:1px solid #ccc;
+	}	

@@ -1,0 +1,610 @@
+November 30, 2007
+
+An update was added to the GVAFoundation.org home page:
+
+Protecting Victims
+
+The Law requires that victims of crime be protected, but we've had five people call us in the last four weeks complaining that they have been approached by predatory security firms and lenders who clearly knew that their homes had been vandalized during the Fear Toxin riots in The Narrows. One of our clients contracted with the security system that approached her, which promised to provide her with 24 hour security for $12.99, and to install the system for free. It was the classic bait and switch. We reviewed the contract and found that after three months at the monthly security rate would go to more than fifty percent higher than the average security system charges in the city, and that added to that monthly charge would be a $15.99 a month fee to cover the installation costs of her system. The contract is for three years and there is no release clause.
+
+It's apparent that these companies are getting the victim's information. One of our volunteers pretended to interview for a job with one of these companies. She reported that there were Gotham Police documents on the desk of the man who interviewed her. When she asked if the company was working with the police, the man interviewing her winked and said no, but that the Gotham Police's secure internal documents server was an open book. He said the GPD's document security was a joke.
+
+GVAF has scheduled an appointment with Police Commissioner Loeb to discuss the issue of identity security for victims. We have also filed a lawsuit for the GVAF client with the security company.
+
+This led participants to look up the site http://www.gothampolice.com/secureinternaldocuments/
+
+------------------------------------------
+
+[edit] Chechens (LC6551)
+
+By logging in as Karl Breitup and using his anniversary (21485) as the password, participants are able to search for document number LC6551, mentioned in the Wearetheanswer.org threatening phone message:
+
+Gotham Police Department
+
+To: All Section Officers From: Larry Coniglia
+
+Re: Upswing in Extortion/Chechen Gang activity
+
+In the wake of the Falcone family collapse, members of organized crime associated with Chechen immigrants (from the 'Little Groznyy' area in Haysville) have attempted to step into the power vacuum.
+
+Although reports of extortion have dropped to near zero, beat officers are reporting that business owners are apparently being shaken down but are too frightened to talk about it. Karl Breitup and Jason McCree have been working on a rash of arson cases in District 5 that appear to be part of this upsurgence. They report:
+
+    * Seventeen site fires have destroyed an estimated $240,000 in equipment and materials in the last four weeks alone. It assumed that these fires are set on the construction sites of contractors who refuse to pay protection fees. 
+
+    * At least one homicide, the unsolved murder of Jimmy Cocuza, has been circumstantially related to Chechen activity. Coeuza, low level member of the Falcone family ran a construction company allegedly operating as a front for money laundering. Although the M.O., a mob style 'hit' with a .22, seems consistent with organized crime, evidence at the scene - the victime had been bound with electrical tape and tortured, an empty vodka bottle left on the desk - were consistent with other Chechen activity and clearly meant to 'send a message.' 
+
+Similar activity has occurred in other spheres of business long associated with the Falcone family, including dry cleaners and waste disposal. It is politically incorrect to 'long for the good old days' but the crime families knew their place, if you know what I mean. There's always going to be crime. The Moroni/Falcone families knew it was in their best interest to keep some peace. They 'kept a lid on it.' These guys are brutal, and more than willing to open fire on officers.For the near future, everyone wear your vest. If you think there's trouble, call for back-up.
+
+Respectfully,
+
+Larry Coniglia
+	
+
+Note: all typos were included
+
+------------------------------------------
+
+[edit] Clearance Request (IA8214299)
+
+Participants have also reported sending emails to glenn.barhyte@gpdiad.com from the Gpdiad.com website and receiving personalized responses back. He is adamant about not being able to talk about the mob's connection to any police officers, but he mentioned a new document: IA8214299. Entering that document number into the SID logged in as Karl Breitup shows that Breitup (who is a lieutenant) does not have clearance to view that document.
+
+The efforts to crack Glenn Barhyte's password have proved fruitful. His favorite song is The Rolling Stone's "Satisfaction" and he lived in Utrecht (in the Netherlands) for 9 years. His password is "tevredenheid," which is Dutch for "Satisfaction." With this new login, document IA8214299 was revealed, detailing the investigation into corruption accusations levied against Jason McCree and Karl Breitup:
+
+Gotham Police Department
+
+Doc: IA8214299 Form IA4912 Special Operations Clearance Request
+
+Requesting Officer: Barhyte, Glenn
+
+Court Order: Yes
+
+Nature of Operation: Surveillance of Business
+
+Time: 15:00 Date 12/01
+
+Approvals: Describe Operation, include resources and personnel required:
+
+Surveillance of Betty's House of Pies 1445 Maloney Street
+
+Gotham City (see IA6142137)
+
+six officers (no uniforms)
+
+listening van
+
+equipment for wiring an area for recording
+
+Internal Affairs, not for distribution through police channels
+
+Personnel Clear for Overtime? Yes
+
+Reviewed by Legal Counsel: Rachel Dawes (signed)
+
+------------------------------------------
+
+Using Glenn Barhyte's login information on the Gpdiad.com site also allows the participant to listen in on the live feed from the surveillance operation mentioned above. [1] The stream went active on Dec 1, at 3PM EST.
+[edit] Memo (IA6142137)
+
+From information in Barhyte's clearance request, another document was found:
+
+From:Glenn Barhyte
+
+Re: Breitup, McCree/Last recap before Saturday
+
+As discussed, we will be in place at Betty's House of Pies although we will not start the live audio feed until Breitup and McCree are in place. Breitup and McCree are not expected until 1500 hours.
+
+Our Audio Techs are Specialists Adrick and Prinzing - Prinzing believes that Breitup may recognize him if he sees him, but will remain in the van so there is no reason that either Breitup or McCree should see either Audio Tech.
+
+The listening device is a napkin dispenser. It will dispense napkins, although not very many, so hope that Breitup and McCree aren't messy. Shippler will place the dispenser a little before they are expected to arrive.
+
+Hanson and Keilfer will be monitoring from an unmarked outside, Channel 11 on the two-ways. If you have trouble with the two-ways, use feeds/as12061500. People have been reporting some interference in that area so be prepared.
+
+When the drop is made, I will make the approach.
+
+Remember, Breitup and McCree are professionals. I expect they will behave sensibly. Treat them with some respect.
+	
+
+------------------------------------------
+
+[edit] March 30, 2008
+
+By logging in as Glenn Barhyte, a new document is found, using information from Josephcandoloro.com
+[edit] IAD-2200 (1A176495U)
+FORM # 24756TT/543
+
+Official Investigation into Use of Deadly Force by Gotham Police Officer
+CASE FILE # 4591023XN
+INVOLVING OFFICER: Officer # 38739GPD, Sargeant Frank Notaro
+
+DATE: May 13
+
+Officer Frank Notaro testifies that he was walking home from a late movie at 2AM down Jackson Street in Downtown when he heard gunshots. He ran to the sounds, which is the alley in the 1300 block of Jackson between Columbus and Madison. There, he witnessed a man holding a semi-automatic weapon shooting at passers-by. One man was hit already and on the ground. Notaro says he raised his service revolver and shot the man within seconds. Notaro says he was defending the lives of citizens and felt as personal risk by the gunfire.
+
+INITIAL COMMENTS
+
+There are several inconsistencies in Sargeant Notaro's storiy (sic). The gunshot which killed the shooter, Richard Lukas Gould, appears to have been shot from a maximum of ten feet away. Yet Gould was found dead forty feet from the entrances of the alley on Jackson and Columus (sic). Thus, Notaro would have had to brave semi-automatic gunfire as he moved forward for up to thirty feet and then shot the man from ten feet away, which seems improbable. As well, the injuries to the passersby do not seem consistent with the incident report. Analysis of the shots to the foot and thigh of the two injured passersby reveals that the gunshot was from a different caliber weapon from the one retrieved at the scene.
+
+RECOMMENDATION
+
+The inconsistencies in the story by Officer Notaro demand investigation. I recommend an expanded probe into the incident and the suspension of Officer Notaro until conclusion of probe.
+
+FOLLOW UPS
+
+October 4
+Probe rejected for budgetary reasons
+
+March 25
+Case file declared closed
+	
+
+Francis Notaro is the officer awarded for bravery (from his actions in this very incident) on Gothampolice.com, and accused Harvey Dent of bribery.
+
+------------------------------------------
+
+[edit] April 6, 2008
+
+From a clue sent from Wearetheanswer.org after submitting a corruption tip about Francis Notaro, 3 more documents were found. The email contained a line of code that was discovered to be in Base64, and when translated, resulted in:
+
+  Ref:
+  IA8234971
+  IA8376121
+  IA8388555
+
+By logging in as Glenn Barhyte, the following 3 documents were found on the SID
+
+----------------------------------------
+
+[edit] Notaro Wiretap (IA8234971)
+
+A Zshare .mp3 of the file can be found here.
+
+Note: The conversation concerns the investigation into the incident which earned Notaro a Gotham Medal of Commendation. Candoloro and Rossi are both helping Notaro cover up the evidence in this incident, and are paying him off via mafia funds.
+
+-
+(dialtone)
+
+(dialing numbers)
+
+(ring)
+
+(ring)
+
+Rossi: Yes?
+
+Notaro: Rossi?
+
+Rossi: Yeah.
+
+Notaro: Where the hell have you been? I've been tryin' to call ya.
+
+Rossi: I've been helpin' old ladies cross the street. You know me.
+
+Notaro: Gee...look Rossi, uh, uh-I can't do this anymore.
+
+Rossi: What can't you do?
+
+Notaro: The whole damn thing - all the lies and worse! They're after me! I'm hearin' things.
+
+Rossi: Who's after you, the Chechens?
+
+Notaro: No, Internal Affairs - they're sniffin' around that thing!
+
+Rossi: What thing?!
+
+Notaro: You know...that thing! That thing with the guy!
+
+Rossi: The thing with the guy with the orange juice?
+
+Notaro: No, the thing with the guy - the sicko!
+
+Rossi: Oh, THAT thing. What about it?
+
+Notaro: They're investigatin' it!
+
+Rossi: (flippant) That's impossible! We shut it down! It's ah - what do you call it? Moot.
+
+Notaro: Well, they're re-openin' it!
+
+Rossi: Aaah, don't worry about it! You worry too much! Everyone worries too much! Go enjoy your boat. Take the day off, you still get paid.
+
+Notaro: I want out, Rossi.
+
+Rossi: Don't talk crazy now, Notaro! Why you gotta talk crazy?
+
+Notaro: I want out before anything else happens.
+
+Rossi: You're losin' me here!
+
+Notaro: I'm a cop, Rossi. A cop! I forgot that for a while, but not no more! I'm a cop! My dad was a cop, and when he died, when that cancer ate him all up, the fraternal order of Gotham Police gave him a 9-gun salute! Guys in full dress, white-gloved, the whole thing!
+
+Rossi: (sarcastically) I'm very sorry for your loss.
+
+Notaro: What I'm sayin' is, I want that. When I go, I want my kid to see the same thing. Respect! Pride! I can't lose my badge over this.
+
+Rossi: (laughs) It's like the one with the village idiot here. Lemme explain something to you. SLOWLY, so YOU can understand. We helped you with that thing. You remember? You came to us and we helped you. We took care of it, and we took care o' you. And you...take care o' US. That's the way it works, that's the way it's ALWAYS worked.
+
+Notaro: Y-yeah, but -
+
+Rossi: If you think you can walk away from this thing...try it. See what happens.
+
+Notaro: I've talked it over with with Cisneros. We want out.
+
+Rossi: Fraaaank. You are makin' such a big mistake.
+
+Notaro: We're out.
+
+Rossi: Look, look. Frank. Don't do anything stupid. Let's talk about it with Candoloro, you know him. We can work something out. We always work it out.
+
+Notaro: I'm hangin' up now. 
+
+-------------------------------------------
+
+[edit] Bank Statement (IA8376121)
+
+This is a copy of Francis Notaro's bank statement.
+
+Many of the transactions involve luxury items, and there are multiple $10,000 deposits from a "JC," which could be Joseph Candoloro. Other transactions from a different number on the same account (presumably Notaro's wife) are frequent. These transactions are almost all for visits to a "Rape Victim's Support" group and a doctor that can be presumed to be in the psychiatric practice. There is also a large payment ($2,312) to Kinslytravel.com, which suggests that Notaro planned to take his entire family out of Gotham.
+
+------------------------------------------
+
+[edit] DNA (IA8388555)
+FORM #: IA8388555
+
+TYPE: Memo
+
+CASE FILE #: 4593023XN
+
+INVOLVING OFFICER: Officer # 38739GPD, Sargeant Frank Notaro
+RE: Info on Richard Lukas Gould
+
+FROM: Melvin R. Finnigity
+DATE: May 19
+
+Information on shooting death of Richard Lukas Gould on the night of May 14 by Sargeant Frank Notaro.
+
+I've made contact with some of our sources within the District Attorney's Office.
+
+Richard Lukas Gould is considered by the District Attorney's office to be the "Jackson Park Rapist" who terrorized the neighborhood in and around aforementioned park for the last three years.
+
+Investigation of Richard Lukas Gould began early last year out of the Downtown Special Crimes Unit. I've attached a document slipped to me by an informant inside the unit. Eyewitness testified Gould as taking part in an assault on a woman in the area, and his DNA was a match for blood and semen found at crime scenes.
+
+Charges were set to be filed in May. However, evidence emerged of unlawful conduct on the part of initial investigator which queered eyewitness identification. DA office determined that the entire case would be thrown out. In order to spare department embarrassment, DA dropped the case. DSCU was furious.
+
+In addition to some of the peculiarities discovered already regarding
+
+Notaro's story, the identity of the shooting victim merits more investigation in this officer's opinion.
+	
+
+GOTHAM POLICE DEPARTMENT LAB File # 8793852OA
+
+DNA Analysis of Fluids Found From Crime Scene #4E328923
+
+DNA samples from:
+  #1   Crime Scene
+  #2   Samuel Evers Jeremynsk
+  #3   Richard Lukas Gould
+  #4   Jeremy Mered Slabotnik
+
+COMMENTARY: Richard Lukas Gould is a match
+	
+
+
+DNA comparisons to Crime Scene sample
+
+(the Sample is on the left in each)
+	Jeremynsk
+
+Image:reportsamplejeremynsk.jpg
+	Gould
+
+Image:reportsamplegould.jpg
+	Slabotnik
+
+Image:reportsampleslabotnik.jpg
+
+Note: It is very clear from the DNA image that Richard Lukas Gould is NOT a match for the rape case. Slabotnik's DNA is a match if the image of the lane is flipped horizontally.
+
+One theory about this information is that Slabotnik is the rapist and is connected with the Chechen. The Chechens pay off a lab tech to clear Slabotnik, so the DNA evidence is tampered with and the report is written so that Gould is matched to the rape. Notaro, who's wife was a rape victim, finds out Gould is allegedly the rapist and kills him. He goes to Rossi for help, who covers it up and gets the investigation to shut down. However, when the investigation is re-opened, it could uncover all sorts of mob and Chechen ties to the Gotham police and political race.
+
+------------------------------------------
+
+[edit] April 15
+
+From a new email in Glenn Barhyte's account, the wiretap document MCU3932571 was referenced. Searching for the document in the SID under Glenn Barhyte pulled up an audio file, where calls into Rossi's Deli were monitored.
+
+
+[edit] Deli Wiretap (MCU3932571)
+
+All of the audio was taken from April 13, when participants calling the phone number for the deli reached a live person and interacted with her. The wiretap was a collection of recordings of these interactions. The file can be downloaded from Zshare here.
+
+From what information is gleamed, Mary Breitup is at the deli but turned up dead somehow after the Notaro hostage situation, which occurred immediately after the last recording. However, she was not the hostage.
+
+
+-
+
+[beep]
+
+Woman: Rossi's Deli, this call may be recorded for training purposes, can I take your order?
+
+Customer 1: Oh, yeah, I was going to do a, uh, just a corn beef
+
+[beep]
+
+Customer 2: Do you have like a fish fry?
+
+Woman: Okay, will that be all?
+
+Customer 2: ...I think so.
+
+[beep]
+
+Customer 3: I'll have spaghetti and meatballs.
+
+Woman: Spaghetti and meatballs, alright and was there anything else for you?
+
+Customer 3: No thank you.
+
+[beep]
+
+Customer 4: Uh, yeah, I'd like to get a Joe's favorite for carry out
+
+[beep]
+
+Customer 5: Yeah I'd like to order Joe's favorite please
+
+[beep]
+
+Customer 6: Yes, I'd like to have, um, a triple deck turkey and cheese sandwich please
+
+[beep]
+
+Customer 7: Um, Can I have the uh, uh Rossi's favorite?
+
+Woman: Okay, Joe's favorite...
+
+Customer 7: I'm sorry?
+
+Woman: I was just saying, "Joe's favorite..."
+
+Customer 7: That's right-That's right, yes. Um, I was told that, uh they're having a party for Mary Breitup there today?
+
+Woman: Uh, No, not for Mary, I mean, I, I, I see her over there, uh, but I don't know of any party for her...
+
+Customer 7: Um Think I could talk to her?
+
+Woman: Uh, You know, the phone isn't for customer service...
+
+Customer 7: Okay, I'm sorry. Just tell her that um, that I'm sorry about uh her loss, and uh that I hope that, you know, she has a great day, and just enjoys her meal, I guess.
+
+Woman: Alright, I'll try to pass that message along to her.
+
+Customer 7: Alright, Thank you very much.
+
+[beep]
+
+Customer 8: Hi, I just wanted to order the um spaghetti and meat balls
+
+[beep]
+
+Customer 9: Do you, do you um, see any other officers, or perhaps um, Mary Breitup in there?
+
+Woman: Um, let me take a look, I think I saw her earlier... oh, yup, yup, there's Mary, she's having her coffee.
+
+Customer 9: You wouldn't think I could talk to here now, do you?
+
+Woman: You know, I'm sorry I'm sorry, we really don't let customers use the phones here, we really, you know, we just use it for taking orders.
+
+Customer 9: Mmm hmm.
+
+Woman: Is there any, a message you wanted me to leave me for her? I could maybe, leave her you know, leave her a call back number or you know, a message for her?
+
+Customer 9: No, that's alright, like I said I wouldn't want you to get involved.
+
+Woman: Oh. Okaay... [laughs a little]
+
+Customer 9: Alright, thanks a lot, thank you
+
+Woman: Alright, thank you
+
+Customer 9: Alright, bye
+
+Woman: Bye
+
+[beep]
+
+Woman: Rossi's Deli, this call may be recorded for training purposes, can I take your order?
+
+Customer 10: Yeah, it's my birthday, I wanted to make an order
+
+Woman: Alright, what would you like?
+
+Customer 10: I guess just a sandwich
+
+Man in background: Get down!
+
+Woman: What the-
+
+[beep] 
+------------------------------------------
+
+[edit] June 13, 2008
+[edit] Albert Rossi Arrest Report (GP77031)
+
+From the first episode of Gotham Tonight, a new document number was found under Sal Maroni's mugshot (77031) and via a new clue from Glenn Barhyte's email noting how GPD document numbers had a prefix of GP. Searching "gp77031" in Barhyte's SID account pulls up Albert Rossi's arrest report.
+
+
+GOTHAM POLICE DEPARTMENT ARREST REPORT
+
+BOOKING NUMBER: 17044
+
+NAME: Albert Rossi
+DOB: 3/1/1967
+
+RECEIVED: 6/13/2008
+DATE OF OFFENSE: 6/13/2008
+
+RACE: White
+CURRENT AGE: 41
+WEIGHT: 210
+HEIGHT: 5'11"
+EYES: Brown
+HAIR: Black
+
+EDUCATION LEVEL: High School Diploma
+
+OCCUPATION: Co-owner, Rossi's Restaurant
+
+ATTORNEY: R. Quackenbush (Candoloro and Associates)
+
+CHARGE(S): Assault, voter intimidation
+
+ARRESTING OFFICER: J. Victor-Stearns
+
+SUMMARY:
+
+According to several eyewitnesses, Albert Rossi arrived near the East City Park polling station just after 5:00 pm on Election Day. Witnesses claim the accused threatened to hit people with a baseball bat unless they voted for Roger Garcetti. Rossi also allegedly destroyed privately held Harvey Dent campaign materials. When I arrived on the scene, I found the suspect tied to a tree with two other suspects who were also allegedly involved in voter intimidation tactics. Witnesses claim "the Batman" prevented Rossi and his two alleged cohorts from physically harming anyone before he tied them to the tree.
+GOTHAM POLICE DEPARTMENT CRIMINAL RECORD
+
+NAME: Albert Rossi
+DOB: 3/1/1967
+
+RACE: White
+CURRENT AGE: 41
+WEIGHT: 210
+HEIGHT: 5'11"
+EYES: Brown
+HAIR: Black
+
+EDUCATION LEVEL: High School Diploma
+
+OCCUPATION: Co-owner, Rossi's Restaurant
+
+PRISON RECORD: None
+
+SUMMARY:
+Albert Rossi is a known member of the Falcone crime syndicate. He currently (as of 05/07/04) runs Rossi's Restaurant with partner and sometime lawyer Joseph Candoloro, which he inherited from father Randolfo Rossi, also a known gang figure. Albert Rossi first ran into trouble at age 15 when he was arrested for grand theft auto. After time spent in juvenile hall, he was picked up again at 19 for armed robbery. When a witness failed to identify him, Rossi was never tried. In 1998, Rossi was implicated in the murder of drug lord Diablo "Black Socks" Chillaness. When the key witness was found dead in her hotel room the morning of her testimony, all charges against Rossi were dismissed.
+
+------------------------------------------
+
+[edit] June 27, 2008
+[edit] Brian Douglass Investigative Document (IA2364783290)
+
+From the fourth episode of Gotham Tonight, a GPD paper shown is observed to have the numbers "2364783290." By adding an "IA" prefix, an investigative report on Brian Douglass was found under Glenn Barhyte's login.
+
+FORM: 24756TT/538
+Official Investigation into GPD Employee malfeasance in the accepting of bribes.
+CASE FILE: 2364783290 - REVISED
+INVOLVING EMPLOYEE: Brian Douglass
+
+DATE: October 10, 2003
+
+Brian Douglass is a long-time employee of the GP who has held numerous roles throughout the department. Currently, he is a civilian dispatcher in the gang crime unit. An anonymous tip forwarded to IA asserts that Mr. Douglass was assisting former supervisor Officer Greg Convey in the collection of illegal payouts from underworld figures conducting activities in his beat.
+
+INITIAL COMMENTS
+Officer Convey has left the force to pursue a career in private security. Several people who worked with him indicate that he was taking bribes from small-time mob players and other criminals who plied their trade in his beat location. Officer Convey was never formally charged. By all accounts, Mr. Douglass was a valued employee of the department and not particularly close to Officer Convey or anyone else.
+
+RECOMMENDATIONS
+No evidence can be found linking Mr. Douglass to any criminal or unethical activity. A review of his initial intake records indicates that he does not possess the right psychological mindset or physical capacity for advancement.
+
+FOLLOW UPS
+
+------------------------------------------
+
+	
+
+[edit] Pasquale Bistro wiretap (MCU4735119)
+
+From a new email in Glenn Barhyte's account, Jim Gordon mentions document MCU4735119 regarding the murders of "Stevie and Romeo." The document is a wiretap from Pasquale's Bistro, where both men arrived at the bistro to pick up their "package" and were confronted by two men from rival gangs. 
+
+Man A and B are Romeo and Stevie
+
+Pasquale is likely the chef with the French accent. (Have to confirm it's the guy with the same accent in Gotham Tonight..)
+
+Man C and D are likely goons from a rival gang, but probably have connections with the Joker.
+
+[static]
+
+[Dinnerware rattling throughout, as if recorded by the kitchen]
+
+Pasquale : Jenny! Jenny! Why is every American girl named Jenny?
+
+[Door opens]
+
+A: Hello, gentlemen!
+
+Pasquale: (ignoring them) What a silly name! Silly name in a silly country!
+
+Waitress: We just had twelve of the fillets!
+
+B: Hey, we're here for the envelope, man!
+
+Waitress: We need one pistachio lamb and one pan scallop!
+
+B: Are you listening?
+
+[background chatter - "...here this morning!"]
+
+A: I don't think you're listenin'!
+
+Pasquale: Who taught you to saute a pork zat way?
+
+[background chatter - "Are these hot potatoes?]
+
+A: Who needs this?
+
+[background chatter - "..whisky!" "...ridiculous!" "We have another special.."]
+
+Pasquale: This is bull! You are not making a 'amburger!
+
+[background chatter - "...take it easy, nobody speaks up."]
+
+B: Ehhh, do what the boss wants.
+
+Pasquale: You take, I give! Such is life!
+
+[pan sizzles]
+
+Pasquale: Are you trying to cook zat or cremate it?!
+
+A: (as if on phone) Yeah, Maroni and the boss just called a truce. They're workin' together now.
+
+B: Eh, screw this! [knocking a pan] Hello, hello? We're lookin' for an envelope we left here.
+
+Customer: We're here for our take-out.
+
+[door slams open, footsteps]
+
+B: What the hell is this?!
+
+[guns cock]
+
+C: You don't know?
+
+A: Know what?
+
+D: It's baseball season!
+
+A: NO!
+
+[bat slams, sickening crunch]
+
+Woman: Oh my God!
+
+[body slams]
+
+C: Let's wrap that order, boys! [ripping sound]
+
+D: What a pair of zeros! [slam]
+
+A: What is this? We got a truce!
+
+D: [mockingly] Ohh, a truce! A truce? Oh! A truce! Well, we are so sorry! Gosh, a truce - well! That changes everything!
+
+[another slam, dinnerware shatters]
+
+C: Okay, let's get 'em outta here.
+
+[bodies heard dragging on the floor]
+
+[static]
+
+[end] 

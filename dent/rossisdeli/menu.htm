@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+ <title>Rossi's Delicatessen</title>
+   <style type="text/css">
+        @import "main.css";
+   </style> 
+
+ <script language="javascript" type="text/javascript">
+	function popup(url) {
+		newwindow=window.open(url,'name','height=400,width=600');
+		if (window.focus) {newwindow.focus()}
+		return false;
+		}
+</script>
+   
+   </head>
+<body>
+
+<center>
+
+<img src="menu.png" border="0" alt="" usemap="#menu_Map" />
+
+<map name="menu_Map">
+<area shape="rect" alt="" coords="399,116,522,143" href="email.htm" onclick="return popup('email.htm')" />
+<area shape="rect" alt="" coords="259,116,369,144" href="about.htm" target="_self" />
+<area shape="rect" alt="" coords="21,116,111,145" href="home.htm" target="_self" />
+</map>
+
+</center>
+
+
+</body>
+</html>

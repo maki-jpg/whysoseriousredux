@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1"><title>
+	I Believe In Harvey Dent
+</title>
+    
+
+
+    <script type="text/javascript" language="javascript">
+	<!--
+var defaultImg = new Image()
+defaultImg.src = "about.png"
+
+var img1 = new Image()
+img1.src = "abouthome.png" 
+
+var img2 = new Image()
+img2.src = "aboutaction.png"
+
+var img3 = new Image()
+img3.src = "aboutdownloads.png"
+
+var img4 = new Image()
+img4.src = "aboutroad.png"
+
+function roll(dir){
+document.getElementById("themap").src=window[dir].src
+}
+//-->
+	</script>
+	   
+<style type="text/css">
+body {
+	background-image:url(images/meetpattern2.jpg); 
+	background-repeat:repeat-x;
+	}
+	
+#mainContainerDiv {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	}
+
+.centerspace {
+	position:relative;
+	width:991px;
+	height:970px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	padding:0px;
+	background-image:url(images/meethdbkgd2.jpg);
+	background-repeat:no-repeat;
+	}
+	
+.centerimg {
+	position:absolute;
+	top:0;
+	left:22px;
+	width:945px;
+	}
+</style>
+
+</div>
+	   
+</head>
+<body>
+
+   <div>
+   <center>
+       <div id="mainContainerDiv">
+ 
+        
+        
+<img src="about.png" id="themap" alt="header" usemap="#headermap" style="border:0" />
+
+<map id="map" name="headermap">
+	<area shape="rect" alt="" coords="245,30,153,65" href="home.htm" target="_self" onmouseover="roll('img1')" onmouseout="roll('defaultImg')" />
+	<area shape="rect" alt="" coords="642,30,464,65" href="action.htm" target="_self" onmouseover="roll('img2')" onmouseout="roll('defaultImg')" />
+	<area shape="rect" alt="" coords="801,30,645,65" href="downloads.htm" target="_self" onmouseover="roll('img3')" onmouseout="roll('defaultImg')" />
+	<area shape="rect" alt="" coords="963,30,805,65" href="ontheroad.htm" target="_self" onmouseover="roll('img4')" onmouseout="roll('defaultImg')" />
+	
+</map>
+            
+	<div class="centerspace">
+	
+  <img class="centerimg" src="meet.png" alt="meet harvey dent content" />
+            
+    </div>   
+        
+        </div><!-- end mainContainerDiv -->    
+  
+       </center>
+    </div>
+
+</body>
+</html>

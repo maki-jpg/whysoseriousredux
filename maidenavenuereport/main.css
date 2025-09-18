@@ -1,0 +1,20 @@
+body 
+{
+    margin:0px;
+    background-color:White;
+}
+
+img { border:0px; }
+
+div { text-align:left; 
+        font-family:Courier; 
+        font-size:12px; 
+        color:#000000; 
+      }
+
+a:link, a:visited, a:active, a:hover { color:Red; }
+
+table td { text-align:left; padding:0px; vertical-align:top; }
+
+
+#mainContainerDiv { width:1024px;; }

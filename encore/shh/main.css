@@ -1,0 +1,91 @@
+body {
+	background-color:#000;
+	margin:0px;
+	}
+	
+a img {
+	border:0;
+	}
+
+#title {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	}
+
+#content {
+	margin-left:auto;
+	margin-right:auto;
+	overflow:hidden;
+	width:800px;
+	height:800px;
+	}
+
+#pane {
+	overflow:hidden;
+	width:800px;
+	height:800px;
+	}
+
+#pane table {
+	width:10500px;
+	}
+	
+#pane table td {
+	text-align:center;
+	}
+
+#pane #player {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	}
+	
+#pane table td {
+	width:800px;
+	}
+
+.makeup {
+	position:relative;
+	}
+	
+.legolas {
+	position:absolute;
+	top:74px;
+	right:70px;
+	border:1px solid #000;
+	}
+
+.puffy {
+	position:relative;
+	}
+	
+.puffycompare {
+	position:absolute;
+	top:10px;
+	right:50px;
+	}
+	
+.next a, .prev a {
+	font-size:4em;
+	color:#fff;
+	text-decoration:none;
+	}
+	
+#content #buttons .next, #content #buttons .prev {
+	z-index:100;
+	position:fixed;
+	width:50px;
+	padding:0 8px;
+	top:400px;
+	background-color:#000;
+	
+	}
+
+.next {
+	right:30px;
+	}
+	
+.prev {
+	left:30px;
+	}

@@ -1,0 +1,25 @@
+body 
+{
+    margin:0px;
+    background-image:url(../danabkrnd.jpg);
+    background-repeat:repeat-y;
+    background-position:center;
+}
+
+img { border:0px; }
+
+div { text-align:left; 
+        font-family:Verdana; 
+        font-size:11px; 
+        color:#05404c; 
+      }
+
+a:link, a:visited, a:active, a:hover { color:#05404c; }
+
+table td { text-align:left; padding:0px; vertical-align:top; }
+
+
+#mainContainerDiv { width:991px; position:relative; }
+#headerDiv { width:100%; }
+#greyLineDiv { height:5px; width:100%; background-color:#cbcbcb; }
+#contentDiv { background-color:#ebebeb; }

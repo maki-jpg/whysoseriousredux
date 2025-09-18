@@ -1,0 +1,274 @@
+/* Table navigation */
+#navigation {
+	width:100%;
+	margin:1em 0;
+	}
+
+#navigation a {
+	border:0;
+	}
+	
+#navigation .title {
+	font:bold 1.4em "Lucida Sans", verdana, arial, helvetica, sans-serif;
+	margin:0.5em;
+	float:left;
+	width:5%;
+	}
+	
+table.timeline_all {
+	font:0.7em "Lucida Sans", verdana, arial, helvetica, sans-serif;
+	width:85%;
+	margin:0.3em 0.5em 0 5.5em;
+	border-collapse:collapse;
+	float:left;
+	}
+		
+table.timeline_all tr.line {
+	border-top:1px dotted #06414C;
+	}
+	
+@media screen and (-webkit-min-device-pixel-ratio:0) {table.timeline_all tr.line {border-top:1px solid #06414C;}}
+
+table.timeline_all td {
+	padding:0.1em;
+	}
+	
+table.timeline_all .contd {
+	width:5.2em;
+	}
+
+table.timeline_all .casting {
+	background:transparent url(../images_pres/timeline/tapebkgd.png) no-repeat center left;
+	font:bold 12px "Courier", "Times New Roman", serif;
+	}
+	
+@media screen and (-webkit-min-device-pixel-ratio:0) {table.timeline_all .casting {font-size:1.2em;text-indent:0.1em;}}
+
+/* Icon key */
+#iconkey table {
+	margin-bottom:-1em;
+	width:100%;
+	}
+
+#iconkey td {
+	font-size:0.65em;
+	padding:0.03em 0;
+	text-align:center;
+	width:12em;
+	vertical-align:top;
+	}
+
+#iconkey img {
+	height:15px;
+	}
+
+/* For scrolling pane */
+#pane {
+	background-color:#f8f8dc;
+	overflow:hidden;
+	width:900px;
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	height:600px;
+	}
+	
+/* Content of pane */
+#content {
+	width:1200px;
+	}
+	
+#content .month {
+	font-size:0.7em;
+	width:855px;
+	height:620px;
+	display:block;
+	float:left;
+	position:relative;
+	padding:0.2em 2em;
+	}
+	
+#content .month h2 {
+	font-size:1.6em;
+	margin:0 0 -0.1em 2.1em;
+	}	
+	
+#content .month .sub {
+	display:block;
+	font-weight:bold;
+	float:left;
+	text-align:right;
+	width:3%;
+	margin-left:0.7em;
+	padding:0.4em 0.15em 0.5em 0;
+	clear:left;
+	}
+
+#content .month  .desc {
+	display:block;
+	float:left;
+	width:93%;
+	line-height:1.5em;
+	padding:0.4em;
+	margin-bottom:0.1em;
+	}
+
+#content .month  .icon {
+	width:7%;
+	float:left;
+	text-align:center;
+	}
+	
+#content .month  .icon img {
+	height:14px;
+	padding:0 3px 2px 3px;
+	vertical-align:middle;
+	}
+	
+	
+/* Spacing between dates */	
+#content .month .subsp {
+	display:block;
+	font-weight:bold;
+	float:left;
+	text-align:right;
+	width:3%;
+	margin:0.8em 0 0.2em 0;
+	padding:0.4em 0.8em 0.5em 0;
+	clear:left;
+	}
+	
+#content .month .descsp {
+	display:block;
+	float:left;
+	width:93%;
+	line-height:1.5em;
+	padding:0.4em;
+	margin:0.8em 0 0.1em 0;
+	}
+	
+/* Fiddling with top margins to center */
+#mar07 img {
+	padding-top:9em;
+	}
+	
+#mar07 a {
+	border:0;
+	}
+	
+#apr07 img {
+	padding-top:10em;
+	}
+	
+#apr07 a {
+	border:0;
+	}
+
+#may07 h2 {
+	padding-top:9.5em;
+	}
+
+#july07 h2 {
+	padding-top:11.5em;
+	}
+	
+#oct07 h2 {
+	padding-top:13.5em;
+	}
+	
+#nov07 h2 {
+	padding-top:3.5em;
+	}
+	
+#dec07 h2 {
+	padding-top:5.1em;
+	}
+	
+#jan08 h2 {
+	padding-top:13.5em;
+	}
+	
+#feb08 h2 {
+	padding-top:12.5em;
+	}
+	
+#mar08 h2 {
+	padding-top:6em;
+	}
+	
+#mar082 h2 {
+	padding-top:9em;
+	}
+	
+#apr08 h2 {
+	padding-top:-0.5em;
+	}
+	
+#apr082 h2 {
+	padding-top:1em;
+	}
+	
+#may08 h2 {
+	padding-top:13.5em;
+	}
+	
+#jun08 h2 {
+	padding-top:2em;
+	}
+	
+#jun082 h2 {
+	padding-top:5em;
+	}
+	
+/* Background colors */
+.joker span {
+	background:#dcceeb;
+	}
+
+.dent span {
+	background:#D0E0F0;
+	}
+	
+.batman span {
+	background:#ccc;
+	}
+	
+.gpd span {
+	background:#b4d8cb;
+	}
+	
+/* Navigation buttons */
+.month .next, .month .prev {
+	position:absolute;
+	top:5px;
+	z-index:100;
+	}
+
+.month .next {
+	right:10px;
+	}
+	
+.month .prev {
+	left:5px;
+	}
+	
+.month .next a, .month .prev a {
+	font-size:3em;
+	}
+	
+.month .next a:hover, .month .prev a:hover {
+	border-bottom:0;
+	}
+	
+/* Color key */
+#color table {
+	margin:0.5em 0.4em;
+	width:99%;
+	}
+
+#color td {
+	font-size:0.7em;
+	padding:0.3em 0;
+	text-align:center;
+	width:12em;
+	}

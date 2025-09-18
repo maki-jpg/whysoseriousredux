@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta http-equiv="Content-Langage" content="en-us" />
+
+<title>Warning</title>
+
+<link rel="shortcut icon" href="../images_pres/haha.ico" />
+
+<script type="text/javascript" language="javascript">
+
+<!--
+var defaultImg = new Image()
+defaultImg.src = "ontdoff.gif"
+
+var img1 = new Image()
+img1.src = "ontdon.gif" 
+
+function roll(dir){
+document.getElementById("themap").src=window[dir].src
+}
+//-->
+</script>
+
+<style type="text/css">
+body {
+	background-color:black;
+	border:0;
+	margin:0;
+	}
+	
+img {
+	border:0;
+	}
+	
+.ontd {
+	display:block;
+	margin-right:auto;
+	margin-left:auto;
+	}
+
+</style>
+
+<!--[if IE]>
+	<style media="all" type="text/css">
+	@import "css/ie.css";
+	</style>
+<![endif]-->
+
+</head>
+
+<body>
+
+<img class="ontd" src="ontdoff.gif" usemap="#ontd_Map" id="themap" />
+
+<map id="ontdmap" name="ontd_Map">
+	<area shape="poly" alt="" coords="209,573,775,516,800,596,200,664" href="ontd/home.htm" target="_self" onmouseover="roll('img1')" onmouseout="roll('defaultImg')" />
+</map>
+
+</body>
+</html>

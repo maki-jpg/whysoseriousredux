@@ -1,0 +1,60 @@
+.hpanel .gif {
+	width:30em;
+	}
+
+li .hpanel {
+	padding: 0px; /*Padding inside each content*/
+	}
+	
+#film li {
+	margin:0 4px 0 0; /*Spacing between each LI container*/
+	}
+	
+#photos li {
+	margin:0 4px 0 0; /*Spacing between each LI container*/
+	}
+
+#objects li {
+	margin:0 4px 0 0; /*Spacing between each LI container*/
+	}
+	
+/*Overall CSS for each Horizontal Accordion.
+	Most settings should be kept as is.
+	Customize each Accordion by styling each Accordion's ID attribute instead.
+*/
+
+.haccordion {
+	padding:1em 0 0 0;
+	font-size:0.75em;
+	line-height:1.3em;
+	}
+	
+.haccordion ul{
+	margin: 0;
+	padding: 0;
+	background:#f5f6e5;
+	border:1px solid black;	
+	list-style: none;
+	overflow: hidden; /*leave as is*/
+	}
+
+
+.haccordion li{
+	margin: 0;
+	padding: 0;
+	display: block; /*leave as is*/
+	width: 100%; /*For users with JS disabled: Width of each content*/
+	height: 150px; /*For users with JS disabled: Height of each content*/
+	overflow: hidden; /*leave as is*/
+	float: left; /*leave as is*/
+	}
+
+.haccordion li img {
+	float:left;
+	padding-right:5px;
+	}
+	
+.haccordion li .hpanel{
+	width: 100%; /*For users with JS disabled: Width of each content*/
+	height: 150px;  /*For users with JS disabled: Height of each content*/
+	}
