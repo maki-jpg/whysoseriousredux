@@ -1,25 +1,23 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" >
+<!DOCTYPE html>
+<html>
 <head>
     <title>Why So Serious</title>
-     
-    <style type="text/css">
-        @import "../game.css";
-    </style>
-
-    <!-- Load Ruffle (Flash replacement) -->
     <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 </head>
 
 <body style="background-color:#000000">
 <center>
-<!--url's used in the movie-->
-<!--text used in the movie-->
 
-<!-- Ruffle uses black magic to replace Flash  -->
-<ruffle-player src="fortuneteller.swf" width="875" height="1020"></ruffle-player>
+<div id="player"></div>
 
-<div class="close"><a href="javascript: self.close()">Close Window</a></div>
+<script>
+window.RufflePlayer = window.RufflePlayer || {};
+const ruffle = window.RufflePlayer.newest();
+const player = ruffle.createPlayer();
+document.getElementById("player").appendChild(player);
+player.load("fortuneteller.swf");
+</script>
+
 </center>
 </body>
 </html>
