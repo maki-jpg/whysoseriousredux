@@ -4,15 +4,12 @@
     <meta charset="UTF-8">
     <title>Why So Serious</title>
 
-    <!-- Load Ruffle -->
     <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 
-    <!-- Load original CSS -->
     <style type="text/css">
         @import "game.css";
     </style>
 
-    <!-- Basic layout fix -->
     <style>
         body {
             margin: 0;
@@ -20,10 +17,9 @@
             background: #000;
             text-align: center;
         }
-        #player {
+        #player, ruffle-player {
             width: 1227px;
             height: 852px;
-            margin: 0 auto;
             display: inline-block;
         }
     </style>
@@ -36,6 +32,11 @@
         window.RufflePlayer = window.RufflePlayer || {};
         const ruffle = window.RufflePlayer.newest();
         const player = ruffle.createPlayer();
+
+        // ✅ Force size on the actual embedded object
+        player.style.width = "1227px";
+        player.style.height = "852px";
+
         document.getElementById("player").appendChild(player);
         player.load("fortuneteller.swf");
     </script>
