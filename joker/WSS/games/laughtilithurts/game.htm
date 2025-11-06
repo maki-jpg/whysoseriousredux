@@ -1,37 +1,41 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
     <title>Why So Serious</title>
+
     <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+
+    <style type="text/css">
+        @import "game.css";
+    </style>
+
     <style>
         body {
-            background-color: #000;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
             margin: 0;
-        }
-
-        /* More restrained Flash container */
-        .flash-container {
-            width: 70vw;              /* fills about 70% of the screen width */
-            max-width: 1024px;        /* original Flash game width cap */
-            aspect-ratio: 4 / 3;      /* keep original 4:3 ratio */
+            padding: 0;
             background: #000;
-            box-shadow: 0 0 20px rgba(255,255,255,0.1);
+            text-align: center;
         }
 
-        ruffle-player {
-            width: 100%;
-            height: 100%;
+        #player, ruffle-player {
+            display: inline-block;
         }
     </style>
 </head>
 
 <body>
-    <div class="flash-container">
-        <ruffle-player src="steeplechase.swf"></ruffle-player>
-    </div>
+    <div id="player"></div>
+
+    <script>
+        window.RufflePlayer = window.RufflePlayer || {};
+        const ruffle = window.RufflePlayer.newest();
+        const player = ruffle.createPlayer();
+
+        // ✅ Ruffle Black Magic
+        document.getElementById("player").appendChild(player);
+        player.load("steeplechase.swf");
+    </script>
+
 </body>
 </html>
