@@ -18,8 +18,10 @@
             text-align: center;
         }
 
-        #player, ruffle-player {
+        #player {
             display: inline-block;
+            transform: scale(1.8); /* ✅ scale up babe */
+            transform-origin: top center;
         }
     </style>
 </head>
@@ -32,7 +34,7 @@
         const ruffle = window.RufflePlayer.newest();
         const player = ruffle.createPlayer();
 
-        // ✅ Ruffle Black Magic
+        // Load at native resolution, then CSS handles scaling
         document.getElementById("player").appendChild(player);
         player.load("steeplechase.swf");
     </script>
