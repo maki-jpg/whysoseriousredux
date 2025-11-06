@@ -2,8 +2,9 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Why So Serious</title>
+    <title>Why So Serious - Fortune Teller</title>
 
+    <!-- Ruffle -->
     <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 
     <style type="text/css">
@@ -29,17 +30,23 @@
     <div id="player"></div>
 
     <script>
+        // Create Ruffle player
         window.RufflePlayer = window.RufflePlayer || {};
         const ruffle = window.RufflePlayer.newest();
         const player = ruffle.createPlayer();
 
-        // ✅ Force size on the actual embedded object
+        // Set player size
         player.style.width = "1227px";
         player.style.height = "852px";
 
+        // ✅ Add FlashVars (path relative to this HTML file)
+        player.flashvars = {
+            ticket: "swfs/i20opm2mp.swf"
+        };
+
+        // Add player to page and load SWF
         document.getElementById("player").appendChild(player);
         player.load("fortuneteller.swf");
     </script>
-
 </body>
 </html>
