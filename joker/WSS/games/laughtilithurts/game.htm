@@ -18,11 +18,10 @@
             text-align: center;
         }
 
-        #player, ruffle-player {
+        #player {
             display: inline-block;
-            aspect-ratio: 4 / 3; /* Preserve native Flash ratio */
-            width: 1227px;       /* Default width */
-            height: auto;        /* Auto height based on ratio */
+            width: 1227px;  /* perfect size you liked before */
+            height: 852px;
         }
     </style>
 </head>
@@ -35,9 +34,9 @@
         const ruffle = window.RufflePlayer.newest();
         const player = ruffle.createPlayer();
 
-        // ✅ Allow the aspect-ratio CSS to control size
-        player.style.width = "100%";
-        player.style.height = "100%";
+        // Force width and height explicitly
+        player.style.width = "1227px";
+        player.style.height = "852px";
 
         document.getElementById("player").appendChild(player);
         player.load("steeplechase.swf");
@@ -45,4 +44,3 @@
 
 </body>
 </html>
-
