@@ -2,8 +2,9 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Why So Serious</title>
+    <title>Why So Serious - Fortune Teller</title>
 
+    <!-- Ruffle -->
     <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 
     <style type="text/css">
@@ -17,11 +18,10 @@
             background: #000;
             text-align: center;
         }
-
-        #player {
-            display: inline-block;
-            width: 1227px;  
+        #player, ruffle-player {
+            width: 1227px;
             height: 852px;
+            display: inline-block;
         }
     </style>
 </head>
@@ -30,17 +30,18 @@
     <div id="player"></div>
 
     <script>
+        // Create Ruffle player
         window.RufflePlayer = window.RufflePlayer || {};
         const ruffle = window.RufflePlayer.newest();
         const player = ruffle.createPlayer();
 
-        // Force width and height explicitly
-        player.style.width = "1227";
+        // Set player size
+        player.style.width = "1227px";
         player.style.height = "852px";
 
+        // Add player to page and load SWF
         document.getElementById("player").appendChild(player);
         player.load("steeplechase.swf");
     </script>
-
 </body>
 </html>
