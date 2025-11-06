@@ -11,17 +11,30 @@
     </style>
 
     <style>
-        body {
+        html, body {
             margin: 0;
             padding: 0;
             background: #000;
-            text-align: center;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
 
         #player {
-            display: inline-block;
-            transform: scale(1.8); /* ✅ scale up babe */
-            transform-origin: top center;
+            width: 80vw;  /* Take up 80% of the viewport width */
+            max-width: 1227px;
+            aspect-ratio: 4 / 3; /* Preserve correct Flash aspect */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        ruffle-player {
+            width: 100%;
+            height: 100%;
+            display: block;
+            border: none;
         }
     </style>
 </head>
@@ -34,10 +47,9 @@
         const ruffle = window.RufflePlayer.newest();
         const player = ruffle.createPlayer();
 
-        // Load at native resolution, then CSS handles scaling
+        // No hardcoded pixel size — it will follow CSS scaling
         document.getElementById("player").appendChild(player);
         player.load("steeplechase.swf");
     </script>
-
 </body>
 </html>
