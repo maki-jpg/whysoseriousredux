@@ -2,13 +2,9 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Why So Serious</title>
+    <title>Why So Serious - Final Black Background</title>
 
     <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
-
-    <style type="text/css">
-        @import "game.css";
-    </style>
 
     <style>
         html, body {
@@ -36,13 +32,14 @@
         window.RufflePlayer = window.RufflePlayer || {};
         const ruffle = window.RufflePlayer.newest();
         
-    
-        const player = ruffle.createPlayer(document.getElementById("player"), {
-     
+        const container = document.getElementById("player");
+
+        const player = ruffle.createPlayer(container, {
             bgcolor: "#000000", 
             
+            wmode: "opaque",
+            
             scale: "exactfit",
-           
         });
 
         player.load("TDK121_5.swf");
