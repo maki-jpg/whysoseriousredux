@@ -3,41 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <title>Why So Serious</title>
-
     <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
-
-    <style type="text/css">
-        @import "game.css";
-    </style>
 
     <style>
         html, body {
             margin: 0;
             padding: 0;
-            width: 100%;
             height: 100%;
             background: #000;
             overflow: hidden;
         }
 
-        #player, ruffle-player {
+        #player-container {
             width: 100%;
             height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #000;
+        }
+
+        ruffle-player {
             display: block;
             background: #000;
         }
     </style>
 </head>
-
 <body>
-    <div id="player"></div>
+    <div id="player-container"></div>
 
     <script>
         window.RufflePlayer = window.RufflePlayer || {};
+        window.RufflePlayer.config = {
+            scale: "none",       // ← keeps original size
+            letterbox: "on"      // ← ensures clean black borders, no stretching
+        };
+
         const ruffle = window.RufflePlayer.newest();
         const player = ruffle.createPlayer();
 
-        document.getElementById("player").appendChild(player);
+        document.getElementById("player-container").appendChild(player);
         player.load("TDK121_5.swf");
     </script>
 </body>
