@@ -20,13 +20,10 @@
         }
 
         ruffle-player {
-            display: inline-block;
+            width: 1227px !important;
+            height: 852px !important;
             background: #000 !important;
-
-            /* FIX ↓ */
-            width: auto !important;
-            height: auto !important;
-            max-width: 100%;
+            display: inline-block;
         }
     </style>
 </head>
@@ -39,10 +36,15 @@
         const ruffle = window.RufflePlayer.newest();
         const player = ruffle.createPlayer();
 
+        // Hard-set size so Ruffle can render
+        player.style.width = "1227px";
+        player.style.height = "852px";
+        player.style.background = "#000";
+
         document.getElementById("player").appendChild(player);
 
-        /* load your SWF */
         player.load("TDK121_5.swf");
     </script>
 </body>
 </html>
+
