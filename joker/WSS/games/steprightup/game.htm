@@ -6,21 +6,32 @@
 
     <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 
-    <style type="text/css">
-        @import "game.css";
-    </style>
-
     <style>
-        body {
+        html, body {
             margin: 0;
             padding: 0;
             background: #000;
-            text-align: center;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
-        #player, ruffle-player {
+
+        #player {
             width: 1227px;
             height: 852px;
-            display: inline-block;
+            background: #000; /* makes sure no white appears */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        ruffle-player {
+            width: 1227px !important;
+            height: 852px !important;
+            display: block;
+            background: #000 !important; /* kills Ruffle's default white bg */
         }
     </style>
 </head>
@@ -35,6 +46,7 @@
 
         player.style.width = "1227px";
         player.style.height = "852px";
+        player.style.backgroundColor = "#000"; // extra protection against white
 
         document.getElementById("player").appendChild(player);
         player.load("TDK121_5.swf");
