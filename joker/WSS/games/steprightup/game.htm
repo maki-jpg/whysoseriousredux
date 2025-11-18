@@ -37,9 +37,7 @@
         const ruffle = window.RufflePlayer.newest();
         const player = ruffle.createPlayer();
 
-        // Force Ruffle scaling so the SWF fills the area
         player.setAttribute("scale", "exactfit");
-        // Alternatives: "showall", "noborder"
 
         document.getElementById("player").appendChild(player);
         player.load("TDK121_5.swf");
