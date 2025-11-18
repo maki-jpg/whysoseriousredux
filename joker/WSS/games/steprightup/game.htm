@@ -17,11 +17,10 @@
             background: #000;
             text-align: center;
         }
-
-        /* ONLY style the container, NOT ruffle-player */
-        #player {
+        #player, ruffle-player {
+            width: 1227px;
+            height: 852px;
             display: inline-block;
-            background: #000;
         }
     </style>
 </head>
@@ -34,7 +33,6 @@
         const ruffle = window.RufflePlayer.newest();
         const player = ruffle.createPlayer();
 
-        // Safe to set width/height here
         player.style.width = "1227px";
         player.style.height = "852px";
 
