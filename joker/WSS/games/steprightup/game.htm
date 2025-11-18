@@ -15,37 +15,38 @@
             overflow: hidden;
         }
 
-        #stage {
-            width: 100%;
-            height: 100%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
+        #player-container {
+            width: 100vw;
+            height: 100vh;
             background: #000;
         }
 
-        canvas {
+        ruffle-player, canvas {
+            width: 100%;
+            height: 100%;
             display: block;
+            background: #000;
         }
     </style>
 </head>
 
 <body>
-    <div id="stage"></div>
+    <div id="player-container"></div>
 
     <script>
         window.RufflePlayer = window.RufflePlayer || {};
         window.RufflePlayer.config = {
-            scale: "showAll",
-            letterbox: "on"
+            quality: "high",
+            scale: "showAll",       // proper proportional scaling
+            letterbox: "on",        // black bars as needed
+            autoplay: "on"
         };
 
         const ruffle = window.RufflePlayer.newest();
         const player = ruffle.createPlayer();
 
-        document.getElementById("stage").appendChild(player);
+        document.getElementById("player-container").appendChild(player);
         player.load("TDK121_5.swf");
     </script>
 </body>
 </html>
-
