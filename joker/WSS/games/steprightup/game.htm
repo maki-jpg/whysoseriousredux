@@ -11,16 +11,20 @@
     </style>
 
     <style>
-        body {
+        html, body {
             margin: 0;
             padding: 0;
+            width: 100%;
+            height: 100%;
             background: #000;
-            text-align: center;
+            overflow: hidden;
         }
+
         #player, ruffle-player {
-            width: 1227px;
-            height: 852px;
-            display: inline-block;
+            width: 100%;
+            height: 100%;
+            display: block;
+            background: #000;
         }
     </style>
 </head>
@@ -33,8 +37,9 @@
         const ruffle = window.RufflePlayer.newest();
         const player = ruffle.createPlayer();
 
-        player.style.width = "1227px";
-        player.style.height = "852px";
+        // Force Ruffle scaling so the SWF fills the area
+        player.setAttribute("scale", "exactfit");
+        // Alternatives: "showall", "noborder"
 
         document.getElementById("player").appendChild(player);
         player.load("TDK121_5.swf");
